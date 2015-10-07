@@ -1,0 +1,237 @@
+header {
+
+	padding-left: 10px;
+	padding-right: 10px;
+
+	#logo {
+		float: left;
+		padding: 15px 0;
+		*zoom: 1;
+		margin-left: 0;
+	
+		div {
+			float: left;
+			margin-right: 20px;
+			background-image: url("../static/images/header-logo-sprite.png");
+			background-repeat: no-repeat;
+			background-position: 0 -85px;
+			width: 131px;
+			height: 85px;
+			position: relative;
+		
+			span {
+				position: absolute;
+				top: 0;
+				left: 0;
+				bottom: 0;
+				right: 0;
+				background-image: url("../static/images/header-logo-sprite.png");
+				background-repeat: no-repeat;
+				background-position: 0 0;
+				opacity: 0;
+				@include fade-transition(opacity 0.5s);
+	  
+				&:hover {
+					opacity: 1;
+				}
+			}
+		
+		}
+	
+		hgroup {
+			padding: 25px 0 15px 40px;
+	  
+			h1 {
+				font-size: 48px;
+				line-height: 40px;
+				margin: 0;
+				font-weight: bold;
+			}
+		
+			h2 {
+				margin: 0;
+				font-size: 18px;
+			}
+		}
+	
+		&:before, &:after {
+			content: "";
+			display: table;
+		}
+  
+		&:after {
+			clear: both;
+		}
+	}
+  
+	#register-widget {
+		background-color: $the-green;
+		height: 105px;
+		float: left;
+		width: 300px;
+		margin: 0 10px;
+		@include radius(0 0 10px 10px);
+		padding: 0 10px;
+		margin-right: 0;
+		margin-left: 90px;
+		@include bsizing(border-box);
+		padding: 5px;
+	
+		h3 {
+			font-size: 21px;
+			margin-bottom: 0;
+			margin-top: 0;
+			text-align: center;
+			color: white;
+		}
+		
+		h4 {
+			font-size: 16px;
+			margin-top: 57px;
+			text-align: center;
+			line-height: 0;
+		}
+	  
+		span {
+			background-color: $the-blue;
+			display: inline-block;
+			padding: 3px 5px;
+			font-size: 1.2em;
+			@include radius(5px);
+			float: right;
+			color: white;
+			font-family: "league-gothic";
+			text-transform: uppercase;
+			border: 0;
+			width: 150px;
+			margin-right: 65px;
+			margin-left: 65px;
+			margin-top: 10px;
+			@include bshadow(2px 3px 0px #bacc3f);
+  
+			&:hover {
+				@include fade-transition(background-color 500ms);
+				background-color: $the-pink;
+			}
+		}
+	}
+}
+
+.navbar {
+
+	padding-top: 25px;
+	display: inline;
+	
+	nav#top-links {
+		display: inline-block;
+		padding-top: 20px;
+  
+		ul {
+			margin: 0 auto;
+			height: 40px;
+	  
+			li {
+				display: inline-block;
+				font-size: 17px;
+				padding: 9px 20px;
+				text-align: center;
+				position: relative;
+				margin-top: 15px;
+				margin-left: -4px;
+				
+				&.circle {
+					margin-bottom: -18px;
+					padding-right: 0;
+				}
+				
+				.socialmedia {
+					background-repeat: no-repeat;
+					background-position: 0 -33px;
+					width: 32px;
+					height: 32px;
+					position: relative;
+		
+					span {
+						position: absolute;
+						top: 0;
+						left: 0;
+						bottom: 0;
+						right: 0;
+						background-repeat: no-repeat;
+						background-position: 0 0;
+						opacity: 0;
+						@include fade-transition(opacity 0.5s);
+	  
+						&:hover {
+							opacity: 1;
+						}
+					}
+				}
+				
+				.facebook {
+					background-image: url("../static/images/icons/facebook.png");
+					
+					span {
+						background-image: url("../static/images/icons/facebook.png");
+					}
+				}
+				
+				.twitter {
+					background-image: url("../static/images/icons/twitter.png");
+					
+					span {
+						background-image: url("../static/images/icons/twitter.png");
+					}
+				}
+				
+				.tumblr {
+					background-image: url("../static/images/icons/tumblr.png");
+					
+					span {
+						background-image: url("../static/images/icons/tumblr.png");
+					}
+				}
+				
+				.instagram {
+					background-image: url("../static/images/icons/instagram.png");
+					
+					span {
+						background-image: url("../static/images/icons/instagram.png");
+					}
+				}
+
+			
+				ul.dropdown {
+					position: absolute;
+					top: 40px;
+					z-index: 9000;
+				
+					li {
+						border-radius: 0;
+						border: 0;
+						margin: 0;
+					}
+				}
+		
+				a {
+					color: $the-gray;
+					font-size: 20px;
+					text-decoration: none;
+					font-family: 'league-gothic';
+					text-transform: uppercase;
+					display: block;
+					height: auto;
+					
+					&:hover {
+						color: $the-pink;
+						@include fade-transition(color 500ms);
+					}
+				}
+			
+				a.active {
+					color: $the-yellow;
+				}
+			}
+		}
+	}
+}

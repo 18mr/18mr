@@ -1,0 +1,69 @@
+---
+layout: sidebar-page
+---
+
+<div class="featured-post">
+	{% for post in site.tags.featured limit:1 %}
+		<div id="featured-image">
+			<a href="{{ post.url | prepend: site.baseurl }}"><img src="{{ post.featured-image }}" class="featured-thumb" alt="{{ post.featured-alt-text }}"></a>
+		</div>
+		<div id="featured-text">
+			<h3 class="category">Featured Post: {{ post.category }}</h3>
+			<h1>
+				<a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+			</h1>
+			<p class="blurb">
+				{{ post.blurb }}
+			</p>
+			<h3>By {{ post.author }}</h3>
+		</div>
+	{% endfor %}
+</div>
+
+<div class="home">
+
+  <ul class="post-list">
+    {% for post in paginator.posts %}
+      <li>
+	    {% if post.featured-image %}
+          <img src="{{ post.featured-image }}" class="featured" alt="{{ post.featured-alt-text }}">
+		{% else %}
+		  <img src="{{ site.baseurl }}/static/images/featured/default.png" class="featured" alt="18MR logo, default featured image">
+		{% endif %}
+	    <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}{% if post.author %} • By {{ post.author }}{% endif %}{% if post.meta %} • {{ post.meta }}{% endif %}</span>
+		<br />
+		<span class="blurb">
+		  {{ post.blurb | truncatewords: 125, '...' }} <a href="{{ post.url | prepend: site.baseurl }}">Read More</a>
+		</span>
+      </li>
+    {% endfor %}
+  </ul>
+  
+  {% if paginator.total_pages > 1 %}
+	<div class="pagination">
+		{% if paginator.previous_page %}
+			<span class="pag-link"><a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Prev</a></span>
+		{% else %}
+		{% endif %}
+
+		{% for page in (1..paginator.total_pages) %}
+			{% if page == paginator.page %}
+				<span id="the-page">{{ page }}</span>
+			{% elsif page == 1 %}
+				<span><a href="{{ '/index.html' | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a></span>
+			{% else %}
+				<span><a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a></span>
+			{% endif %}
+		{% endfor %}
+
+		{% if paginator.next_page %}
+			<span class="pag-link"><a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next &raquo;</a></span>
+		{% else %}
+		{% endif %}
+	</div>
+  {% endif %}
+
+</div>

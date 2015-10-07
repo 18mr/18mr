@@ -1,0 +1,79 @@
+/* Small Device */
+
+@media only screen 
+	and (max-width: 768px) {
+	
+	/* General */
+	
+	.wrapper {
+		width: 95%;
+	}
+	
+	header #logo {
+		width: 131px;
+		float: none;
+		margin: auto;
+		
+		hgroup {
+		
+			h1 {
+				display: none;
+			}
+		}
+	}
+	
+	nav#top-links {
+		
+		ul {
+		
+			li {
+				max-width: 100%;
+			}
+		}
+	}
+	
+	/* Homepage */
+	
+	.home {
+		width: 100%;
+		float: none;
+		margin-top: 0;
+	}
+	
+	.site-header {
+		height: auto;
+		
+		#top-links ul {
+			height: auto;
+			margin-top: 5px;
+			
+			li {
+				width: 100%;
+				border-right: 0;
+				border-left: 0;
+				margin-left: 0;
+				margin-top: 3px;
+				
+				&:first-child, &:last-child {
+					@include radius(0);
+				}
+				
+				a {
+					width: 100%;
+				}
+			}
+		}
+	}
+}
+	
+/* Medium Device */
+
+@media only screen 
+	and (max-width: 992px)
+	and (min-width: 769px) {
+
+	.home {
+		width: 100%;
+		float: none;
+	}
+}
