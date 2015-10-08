@@ -1,0 +1,135 @@
+#email-signup {
+	margin:auto;
+	
+	#can_main_col {
+		display:none;
+	}
+	
+	#action_welcome_message {
+		padding:0px;	
+	}
+	
+	#action_welcome_message_inner {
+		border:0px !important;
+		padding:0px !important;
+		
+		small {
+			display:none;
+		}
+		
+		.left {
+			text-align:center;
+		}
+	}
+	
+	.ajax-loading {
+		position:relative;
+		top:11px !important;
+		left:-42px;
+	}
+	
+	#can_thank_you {
+		border-radius:10px;	
+		padding:50px !important;
+		
+		h1 {
+			font-weight:700;
+			text-align:center;
+			font-size:28px;
+			margin-bottom:0px !important;
+			color: #60a8cd;	
+			text-shadow:none !important;	
+		}
+	}
+	
+	#can_sidebar {
+
+		padding: 10px;
+		overflow:hidden;
+		text-align:center;
+		
+		@include media-query($small) {
+			padding:$spacing-unit 15px;
+		}
+		
+		#new_signature {			
+			margin: auto;
+			overflow: hidden;
+			width: 330px !important;
+			
+			@include media-query($small) {
+				width: 250px !important;
+			}
+		}
+		
+		h4 {
+			display: none;
+		}
+		
+		p {
+			margin-bottom:25px;
+		}
+		
+		.action_status_tracker, #form-first_name, #form-last_name, 
+		#form-comments, #d_sharing, .country_wrap, #form-zip_code {
+			display:none;
+		}
+		
+		#error_message {
+			clear:both;
+			background-color:#FFF;
+			color:#ea2485;
+			padding:0px;
+			
+			strong {
+				color:#ea2485;
+			}
+		}
+		
+		input {
+			@include radius(30px 0px 0px 30px);
+			padding:0px 25px;
+			float:left;
+			max-width:200px;
+			height:30px;
+			
+			@include media-query($small) {
+				max-width:150px;
+			}
+			
+			&[type="submit"] {
+				line-height:0px;
+				@include radius(0px 30px 30px 0px);
+				max-width: 80px;
+				margin: auto;
+				text-shadow: none;
+				font-size: 15px;
+				font-weight: 400;
+				background-color:#ea2485;
+			}
+			
+			&.signed-in {
+				max-width:100%;
+				border-radius:30px;
+			}
+			
+			&[type="submit"]:hover {
+				background-color:darken($the-pink, 25%);
+			}
+			
+			&.error_input {
+				background-color:#fff;
+				border:1px solid #ea2485;
+				color:gray;
+				
+				&::-webkit-input-placeholder { color:#CCC;}
+				&:-moz-placeholder { /* Firefox 18- */ color: #CCC;}
+				&::-moz-placeholder {  /* Firefox 19+ */ color: #CCC; }
+				&:-ms-input-placeholder { color: #CCC;  }
+
+			}
+			
+		}
+	}
+
+}

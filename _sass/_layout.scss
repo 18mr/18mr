@@ -1,4 +1,132 @@
 /**
+ * Clickable pretty logos and buttons
+ */
+#logo {
+	float: left;
+	padding: 15px 0;
+	*zoom: 1;
+	margin-left: 0;
+
+	div {
+		float: left;
+		margin-right: 20px;
+		background-image: url("../static/images/header-logo-sprite.png");
+		background-repeat: no-repeat;
+		background-position: 0 -85px;
+		width: 131px;
+		height: 85px;
+		position: relative;
+		
+		span {
+			position: absolute;
+			top: 0;
+			left: 0;
+			bottom: 0;
+			right: 0;
+			background-image: url("../static/images/header-logo-sprite.png");
+			background-repeat: no-repeat;
+			background-position: 0 0;
+			opacity: 0;
+			@include fade-transition(opacity 0.5s);
+  
+			&:hover {
+				opacity: 1;
+			}
+		}
+	
+	}
+
+	hgroup {
+		padding: 25px 0 15px 40px;
+  
+		h1 {
+			font-size: 48px;
+			line-height: 40px;
+			margin: 0;
+			font-weight: bold;
+		}
+	
+		h2 {
+			margin: 0;
+			font-size: 18px;
+		}
+	}
+
+	&:before, &:after {
+		content: "";
+		display: table;
+	}
+ 
+	&:after {
+		clear: both;
+	}
+}
+
+.socialmedia {
+	background-repeat: no-repeat;
+	background-position: 0 -33px;
+	width: 32px;
+	height: 32px;
+	position: relative;
+	
+	span {
+		position: absolute;
+		top: 0;
+		left: 0;
+		bottom: 0;
+		right: 0;
+		background-repeat: no-repeat;
+		background-position: 0 0;
+		opacity: 0;
+		@include fade-transition(opacity 0.5s);
+
+		&:hover {
+			opacity: 1;
+		}
+	}
+}
+				
+.facebook {
+	background-image: url("../static/images/icons/facebook.png");
+	
+	span {
+		background-image: url("../static/images/icons/facebook.png");
+	}
+}
+				
+.twitter {
+	background-image: url("../static/images/icons/twitter.png");
+	
+	span {
+		background-image: url("../static/images/icons/twitter.png");
+	}
+}
+	
+.tumblr {
+	background-image: url("../static/images/icons/tumblr.png");
+		
+	span {
+		background-image: url("../static/images/icons/tumblr.png");
+	}
+}
+				
+.instagram {
+	background-image: url("../static/images/icons/instagram.png");
+	
+	span {
+		background-image: url("../static/images/icons/instagram.png");
+	}
+}
+
+.rss {
+	background-image: url("../static/images/icons/rss.png");
+	
+	span {
+		background-image: url("../static/images/icons/rss.png");
+	}
+}
+
+/**
  * Site header
  */
 .site-header {
@@ -48,15 +176,84 @@
     padding: 20px 0 10px 0;
 	border-top: 1px $the-gray solid;
 	clear: both;
-}
-
-.copyleft {
-	margin-bottom: 10px;
+	
+	#logo {
+		float: none;
+		padding: 0 0 15px 0;
+	}
 }
 
 .copy-logo {
 	display: inline-block;
 	-webkit-transform: scale(-1, 1);
+}
+
+.footer-heading {
+    font-size: 18px;
+    margin-bottom: $spacing-unit / 2;
+}
+
+.footer-list {
+    list-style: none;
+    margin-left: 0;
+	
+	h2 {
+		margin: 0;
+	}
+}
+
+.horizontal {
+	display: inline-block;
+	margin: 10px;
+}
+
+.footer-col-wrapper {
+    font-size: 15px;
+    color: $grey-color;
+    margin-left: -$spacing-unit / 2;
+    @extend %clearfix;
+}
+
+.footer-col {
+    float: left;
+    margin-bottom: $spacing-unit / 2;
+    padding-left: $spacing-unit / 2;
+}
+
+.footer-col-1 {
+    width: -webkit-calc(30% - (#{$spacing-unit} / 2));
+    width:         calc(30% - (#{$spacing-unit} / 2));
+}
+
+.footer-col-2 {
+    width: -webkit-calc(40% - (#{$spacing-unit} / 2));
+    width:         calc(40% - (#{$spacing-unit} / 2));
+}
+
+.footer-col-3 {
+    width: -webkit-calc(30% - (#{$spacing-unit} / 2));
+    width:         calc(30% - (#{$spacing-unit} / 2));
+}
+
+@include media-query($medium) {
+    .footer-col-1,
+    .footer-col-2 {
+        width: -webkit-calc(50% - (#{$spacing-unit} / 2));
+        width:         calc(50% - (#{$spacing-unit} / 2));
+    }
+
+    .footer-col-3 {
+        width: -webkit-calc(100% - (#{$spacing-unit} / 2));
+        width:         calc(100% - (#{$spacing-unit} / 2));
+    }
+}
+
+@include media-query($small) {
+    .footer-col {
+        float: none;
+        width: -webkit-calc(100% - (#{$spacing-unit} / 2));
+        width:         calc(100% - (#{$spacing-unit} / 2));
+    }
 }
 
 ul#footer {
@@ -136,6 +333,7 @@ h2 {
 		text-transform: uppercase;
 		text-align: center;
 		margin-top: 15px;
+		font-size: 18px;
 	}
 	
 	h3.category {
@@ -145,10 +343,12 @@ h2 {
 	
 	.blurb {
 		text-align: justify;
-		line-height: 1.2em;
+		line-height: 1.3em;
 		font-style: italic;
 	}
 }
+
+
 
 /**
  * Page content
@@ -175,10 +375,15 @@ h2 {
 .post-list {
     margin-left: 0;
     list-style: none;
+	padding-right: 15px;
 
     > li {
         margin-bottom: $spacing-unit;
     }
+	
+	.blurb {
+		line-height: 18px;
+	}	
 }
 
 .post-meta {
@@ -220,7 +425,7 @@ h2 {
     }
 
     h3 {
-        font-size: 24px;
+        font-size: 26px;
 
         @include media-query($medium) {
             font-size: 22px;

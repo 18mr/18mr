@@ -2,67 +2,6 @@ header {
 
 	padding-left: 10px;
 	padding-right: 10px;
-
-	#logo {
-		float: left;
-		padding: 15px 0;
-		*zoom: 1;
-		margin-left: 0;
-	
-		div {
-			float: left;
-			margin-right: 20px;
-			background-image: url("../static/images/header-logo-sprite.png");
-			background-repeat: no-repeat;
-			background-position: 0 -85px;
-			width: 131px;
-			height: 85px;
-			position: relative;
-		
-			span {
-				position: absolute;
-				top: 0;
-				left: 0;
-				bottom: 0;
-				right: 0;
-				background-image: url("../static/images/header-logo-sprite.png");
-				background-repeat: no-repeat;
-				background-position: 0 0;
-				opacity: 0;
-				@include fade-transition(opacity 0.5s);
-	  
-				&:hover {
-					opacity: 1;
-				}
-			}
-		
-		}
-	
-		hgroup {
-			padding: 25px 0 15px 40px;
-	  
-			h1 {
-				font-size: 48px;
-				line-height: 40px;
-				margin: 0;
-				font-weight: bold;
-			}
-		
-			h2 {
-				margin: 0;
-				font-size: 18px;
-			}
-		}
-	
-		&:before, &:after {
-			content: "";
-			display: table;
-		}
-  
-		&:after {
-			clear: both;
-		}
-	}
   
 	#register-widget {
 		background-color: $the-green;
@@ -78,7 +17,7 @@ header {
 		padding: 5px;
 	
 		h3 {
-			font-size: 21px;
+			font-size: 26px;
 			margin-bottom: 0;
 			margin-top: 0;
 			text-align: center;
@@ -143,64 +82,7 @@ header {
 					margin-bottom: -18px;
 					padding-right: 0;
 				}
-				
-				.socialmedia {
-					background-repeat: no-repeat;
-					background-position: 0 -33px;
-					width: 32px;
-					height: 32px;
-					position: relative;
-		
-					span {
-						position: absolute;
-						top: 0;
-						left: 0;
-						bottom: 0;
-						right: 0;
-						background-repeat: no-repeat;
-						background-position: 0 0;
-						opacity: 0;
-						@include fade-transition(opacity 0.5s);
-	  
-						&:hover {
-							opacity: 1;
-						}
-					}
-				}
-				
-				.facebook {
-					background-image: url("../static/images/icons/facebook.png");
-					
-					span {
-						background-image: url("../static/images/icons/facebook.png");
-					}
-				}
-				
-				.twitter {
-					background-image: url("../static/images/icons/twitter.png");
-					
-					span {
-						background-image: url("../static/images/icons/twitter.png");
-					}
-				}
-				
-				.tumblr {
-					background-image: url("../static/images/icons/tumblr.png");
-					
-					span {
-						background-image: url("../static/images/icons/tumblr.png");
-					}
-				}
-				
-				.instagram {
-					background-image: url("../static/images/icons/instagram.png");
-					
-					span {
-						background-image: url("../static/images/icons/instagram.png");
-					}
-				}
-
-			
+							
 				ul.dropdown {
 					position: absolute;
 					top: 40px;

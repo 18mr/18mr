@@ -2,29 +2,66 @@
 
   <div class="wrapper">
 
-    <ul id="footer">
-		<li>
-			<a href="http://18millionrising.org">Home</a>
-		</li>
-		<li>
-			<a href="http://18millionrising.org/about">About</a>
-		</li>
-		<li>
-			<a href="http://18millionrising.org/privacy">Privacy Policy</a>
-		</li>
-		<li>
-			<a href="http://github.com/{{ site.github_username }}/{{ site.github_projectname }}/issues">Technical Support</a>
-		</li>
-		<li>
-			<a href="mailto:{{ site.email }}">Contact</a>
-		</li>
-	</ul>
-	
-	<div class="copyleft">
-		<div class="copy-logo">©</div>
-		<span>18MR.org. <a href="http://18millionrising.org/about/copyright/">Some rights reserved</a>.</span>
-	</div>
-	
+    <div class="footer-col-wrapper">
+      <div class="footer-col  footer-col-1">
+        <ul class="footer-list">
+          <li>
+			<div id="logo" title="18MR.org Logo">
+				<div>
+					<a href="{{ site:baseurl }}/index.html"><span></span></a>
+				</div>
+			</div>
+		  </li>
+          <li><h2>{{ site.description }}</h2></li>
+		  <li>
+		  	<div class="copy-logo">©</div>
+			<span>18MR.org. <a href="http://18millionrising.org/about/copyright/">Some rights reserved</a>.</span>
+			</div>
+		  </li>
+        </ul>
+
+      <div class="footer-col  footer-col-2">
+        <ul class="footer-list">
+			<li><h2>Follow Us</h2></li>
+			<li>
+				<ul class="footer-list">
+					<li class="circle horizontal">
+						<div class="socialmedia facebook" title="Facebook">
+						<a href="{{ site.facebook }}"><span></span></a>
+						</div>
+					</li>
+					<li class="circle horizontal">
+						<div class="socialmedia twitter" title="Twitter">
+						<a href="{{ site.twitter_username }}"><span></span></a>
+						</div>
+					</li>
+					<li class="circle horizontal">
+						<div class="socialmedia tumblr" title="Tumblr">
+						<a href="{{ site.tumblr }}"><span></span></a>
+						</div>
+					</li>
+					<li class="circle horizontal">
+						<div class="socialmedia instagram" title="Instagram">
+						<a href="{{ site.insta }}"><span></span></a>
+						</div>
+					</li>
+					<li class="circle horizontal">
+						<div class="socialmedia rss" title="RSS">
+						<a href=""><span></span></a>
+						</div>
+					</li>
+				</ul>
+			</li>
+			<li><h2>Get Email Updates</h2></li>
+			<li>Stay connected to 18MR.org's campaigns and plug into our national network for Asian American & Pacific Islander activism.</li>
+			<li id="email-signup"><link href='https://actionnetwork.org/css/style-embed-whitelabel.css' rel='stylesheet' type='text/css' /><script>window.yepnope || document.write('<script src="https://actionnetwork.org/includes/js/yepnope154-min.js"><\/script>');</script><script src='https://actionnetwork.org/widgets/v2/petition/sign-up-for-18mr-updates?format=js&source=widget&style=full'></script><div id='can-petition-area-sign-up-for-18mr-updates' style='width: 300px'><!-- this div is the target for our HTML insertion --></div></li>
+        </ul>
+      </div>
+
+      <div class="footer-col  footer-col-3">
+      </div>
+    </div>
+
   </div>
 
 </footer>
