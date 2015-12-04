@@ -59,8 +59,37 @@
       </div>
 
       <div class="footer-col  footer-col-3">
-		<ul class="footer-list">
-		
+		<h2>Sections</h2>
+		<ul class="left-list">
+			{% for category in site.categories %}
+				<li>	
+					<a href="{{ site.baseurl }}{{ category }}">{{ category }}</a>
+				</li>
+			{% endfor %}
+		</ul>
+		<h2>18MR</h2>
+		<ul class="right-list">
+			<li>
+				<a href="{{ site.baseurl }}/about">About</a>
+			</li>
+			<li>
+				<a href="{{ site.baseurl }}/pitch">Pitch</a>
+			</li>
+			<li>
+				<a href="http://action.18mr.org">Campaigns</a>
+			</li>
+			<li>
+				<a href="{{ site.baseurl }}/releases">Press</a>
+			</li>
+			<li>
+				<a href="https://github.com/18mr/18mr/issues">Tech Support</a>
+			</li>
+			<li>
+				<a href="{{ site.baseurl }}/about#contact">Contact</a>
+			</li>
+			<li>
+				<a href="{{ site.baseurl }}/privacy">Privacy</a>
+			</li>
 		</ul>
       </div>
     </div>
