@@ -54,21 +54,41 @@
 			</li>
 			<li><h2>Get Email Updates</h2></li>
 			<li>Stay connected to 18MR.org's campaigns and plug into our national network for Asian American & Pacific Islander activism.</li>
-			<li id="email-signup"><link href='https://actionnetwork.org/css/style-embed-whitelabel.css' rel='stylesheet' type='text/css' /><script>window.yepnope || document.write('<script src="https://actionnetwork.org/includes/js/yepnope154-min.js"><\/script>');</script><script src='https://actionnetwork.org/widgets/v2/petition/sign-up-for-18mr-updates?format=js&source=widget&style=full'></script><div id='can-petition-area-sign-up-for-18mr-updates' style='width: 300px'><!-- this div is the target for our HTML insertion --></div></li>
+			<li id="email-signup"><link href='https://actionnetwork.org/css/style-embed-whitelabel.css' rel='stylesheet' type='text/css' /><script>window.yepnope || document.write('<script src="https://actionnetwork.org/includes/js/yepnope154-min.js"><\/script>');</script><script src='https://actionnetwork.org/widgets/v2/petition/sign-up-for-18mr-updates?format=js&source=footer&style=full'></script><div id='can-petition-area-sign-up-for-18mr-updates' style='width: 300px'><!-- this div is the target for our HTML insertion --></div></li>
+			<script type="text/javascript">
+				$(document).ready(function() {
+					$(document).on('can_embed_submitted', function() {
+						$("#can_thank_you h1").html("Thanks for Subscribing!");
+					});
+				});
+			</script>
         </ul>
       </div>
 
       <div class="footer-col  footer-col-3">
-		<h2>Sections</h2>
-		<ul class="left-list">
-			{% for category in site.categories %}
-				<li>	
-					<a href="{{ site.baseurl }}{{ category }}">{{ category }}</a>
-				</li>
-			{% endfor %}
-		</ul>
-		<h2>18MR</h2>
-		<ul class="right-list">
+		<div class="left-list">
+			<h2>Sections</h2>
+			<ul>
+			<li>
+				<a href="{{ site.baseurl }}/category/ideas/index.html">Ideas</a>
+			</li>
+			<li>
+				<a href="{{ site.baseurl }}/category/culture/index.html">Culture</a>
+			</li>
+			<li>
+				<a href="{{ site.baseurl }}/category/identities/index.html">Identities</a>
+			</li>
+			<li>
+				<a href="{{ site.baseurl }}/category/communities/index.html">Communities</a>
+			</li>
+			<li>
+				<a href="http://action.18mr.org">Action</a>
+			</li>
+			</ul>
+		</div>
+		<div class="right-list">
+			<h2>18MR.ORG</h2>
+			<ul class="right-list">
 			<li>
 				<a href="{{ site.baseurl }}/about">About</a>
 			</li>
@@ -90,7 +110,8 @@
 			<li>
 				<a href="{{ site.baseurl }}/privacy">Privacy</a>
 			</li>
-		</ul>
+			</ul>
+		</div>
       </div>
     </div>
 

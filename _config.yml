@@ -20,13 +20,7 @@ gems: [jekyll-paginate]
 # Output
 permalink: /:year/:month/:title.html
 paginate: 6
-categories:
-- ideas
-- culture
-- identities
-- communities
 collections:
 - authors
 - staff
 - campaigns
-- releases

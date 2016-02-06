@@ -1,6 +1,10 @@
 #email-signup {
 	margin:auto;
 	
+	#can-petition-area-sign-up-for-18mr-updates {
+		margin: auto;
+	}
+	
 	#can_main_col {
 		display:none;
 	}
@@ -28,17 +32,29 @@
 		left:-42px;
 	}
 	
-	#can_thank_you {
-		border-radius:10px;	
-		padding:50px !important;
+	#can_embed_form {
+		#can_thank_you {
+			@include radius(10px);	
+			background-color: transparent;
+			margin-top: 10px;
+			margin-bottom: 0px;
+			
+			#action_info {
+				display: none;
+			}
 		
-		h1 {
-			font-weight:700;
-			text-align:center;
-			font-size:28px;
-			margin-bottom:0px !important;
-			color: #60a8cd;	
-			text-shadow:none !important;	
+			h1 {
+				font-weight:700;
+				text-align:center;
+				font-size:28px;
+				margin-bottom:0px !important;
+				color: #60a8cd;	
+				text-shadow:none !important;	
+			}
+		}
+	
+		.can_thank_you-block {
+			display: none;
 		}
 	}
 	
@@ -55,7 +71,6 @@
 		#new_signature {			
 			margin: auto;
 			overflow: hidden;
-			width: 330px !important;
 			
 			@include media-query($small) {
 				width: 250px !important;
