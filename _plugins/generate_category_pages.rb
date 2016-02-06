@@ -1,8 +1,6 @@
 module Jekyll
 
   class CatsAndTags < Generator
-  
-    safe true
 
     def generate(site)
       site.categories.each do |category|

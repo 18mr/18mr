@@ -17,11 +17,6 @@ The next couple years hold incredible potential for rapid change. We’re ready 
 
 <h1 id="staff">Our Staff</h1>
 
-<ul class="rig">
-<li>
-</li>
-<ul>
-
 <h1 id="contact">Contact Us</h1>
 
 Direct general inquiries, including speaker requests for any of our current staff, can be sent to [info@18millionrising.org](mailto:info@18millionrising.org).

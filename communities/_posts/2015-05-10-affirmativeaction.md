@@ -3,7 +3,7 @@ layout: post
 title: "Asian American, Native Hawaiian, and Pacific Islander Community Organizations Stand Up for Equal Opportunity in Higher Education"
 category: communities
 author: Juliet Shen
-featured-image: 'static/images/featured/2015-05-10-affirmativeaction.png'
+featured-image: '/static/images/featured/2015-05-10-affirmativeaction.png'
 featured-alt-text: "Block letters on a black background: 'Fighting for the future of our youth should UNITE us. It's time to show REAL LEADERSHIP. Support Affirmative Action. Support Equal Opportunity.'"
 tweet: "Join over 35 AAPI organizations fighting back against lies about affirmative action."
 facebook: "Join over 35 AAPI organizations fighting back against lies about affirmative action."
