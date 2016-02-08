@@ -3,7 +3,7 @@ layout: post
 title: "The Meemao Monster"
 category: culture
 author: Kao Kalia Yang
-featured-image: 'static/images/featured/2015-01-11-the-meemao-monster.jpg'
+featured-image: '/static/images/featured/2015-01-11-the-meemao-monster.jpg'
 featured-alt-text: "Tina Fey, in a sleeveless white top and black skirt, and Amy Poehler, in a purple dress and blue necklace, grimace awkwardly as they stand on either side of Margaret Cho, dressed in a faux North Korean military uniform, wearing white pancake face makeup, leering into a microphone."
 tweet: "Kao Kalia Yang reacts to Margaret Cho's ghastly yellowface at the 2015 Golden Globes."
 facebook: "Kao Kalia Yang reacts to Margaret Cho's ghastly yellowface at the 2015 Golden Globes."

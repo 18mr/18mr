@@ -1,0 +1,23 @@
+.cat-title {
+	text-align: center;
+	font-size: 4em;
+}
+
+.cat-top {
+	width: 100%;
+	float: none;
+	
+	li {
+		text-align: center;
+	}
+	
+	.cat-featured {
+		margin: 0;
+		float: none;
+	}
+}
+
+.cat-remainder {
+	width: 55%;
+	float: left;
+}
