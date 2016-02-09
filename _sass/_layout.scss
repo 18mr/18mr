@@ -303,7 +303,7 @@ home {
 }
 
 .post {
-	width: 640px;
+	width: 60%;
 	float: left;
 }
 
@@ -409,7 +409,7 @@ h2 {
  * Posts
  */
 .post-header {
-	height: 60px;
+	padding: 0;
 }
 
 .post-title {
@@ -423,7 +423,6 @@ h2 {
 }
 
 .post-content {
-    margin-bottom: $spacing-unit;
 
     h2 {
         font-size: 28px;
@@ -447,6 +446,40 @@ h2 {
         @include media-query($medium) {
             font-size: 18px;
         }
+    }
+}
+
+#disqus_thread {
+	margin: $spacing-unit / 2 0;
+}
+
+.socialshare {
+    text-align: center;
+	
+	span {
+		background-color: $the-pink;
+		display: inline-block;
+		padding: 5px 8px;
+		font-size: 1.8em;
+		@include radius(5px);
+		color: white;
+		font-family: "league-gothic";
+		text-transform: uppercase;
+		border: 0;
+		width: 150px;
+		margin-right: 20px;
+		margin-left: 20px;
+		margin-bottom: 20px;
+ 
+		&:hover {
+			@include fade-transition(background-color 500ms);
+			background-color: darken($the-pink, 25%);
+		}
+	}
+
+    a {
+        font-weight: 400;
+        color: #fff;
     }
 }
 

@@ -1,18 +1,23 @@
 ---
-layout: default
+layout: sidebar-page
 ---
-<div class="post">
-
-  <header class="post-header">
+<header class="post-header">
     <h1 class="post-title">{{ page.title }}</h1>
     <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
-  </header>
+</header>
+
+<div class="post">
 
   <article class="post-content">
     {{ content }}
   </article>
+    
+  <div class="socialshare">
+    <span><a href="https://twitter.com/intent/tweet?text={{ page.tweet }}&url={{ site.url }}{{ page.permalink | }}&via={{ site.twitter_username }}&related={{ site.twitter_username }}" rel="nofollow" target="_blank" title="Share on Twitter">Share on Twitter</a></span>
+    <span><a href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ page.permalink }}">Share on Facebook</a></span>
+  </div>
   
-  <div id="disqus_thread"></div>
+<div id="disqus_thread"></div>
 	<script type="text/javascript">
     /* * * CONFIGURATION VARIABLES * * */
     var disqus_shortname = '18millionrising';
@@ -25,10 +30,4 @@ layout: default
     })();
 	</script>
 	<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
-  
-  <div class="socialshare">
-    <span><a href="https://twitter.com/intent/tweet?text={{ page.tweet }}&url={{ site.url }}{{ page.permalink | }}&via={{ site.twitter_username }}&related={{ site.twitter_username }}" rel="nofollow" target="_blank" title="Share on Twitter">Share on Twitter</a></span>
-    <span><a href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ page.permalink }}">Share on Facebook</a></span>
-  </div>
-
 </div>

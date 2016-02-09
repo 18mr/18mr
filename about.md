@@ -17,12 +17,26 @@ The next couple years hold incredible potential for rapid change. We’re ready 
 
 <h1 id="staff">Our Staff</h1>
 
+<ul class="rig">
+{% for weight in (1...site.staff.size) %}
+{% for staff in site.staff %}
+{% if staff.weight == weight %}
+	<li>
+		<img src="{{ staff.photo }}">
+		<h2>{{ staff.name }}</h2>
+		<h3>{{ staff.title }}</h3>
+	</li>
+{% endif %}
+{% endfor %}
+{% endfor %}
+</ul>
+
 <h1 id="contact">Contact Us</h1>
 
 Direct general inquiries, including speaker requests for any of our current staff, can be sent to [info@18millionrising.org](mailto:info@18millionrising.org).
 
 If you have a story or campaign to pitch, send it to us here.
 
-If you are having technical difficulties with this site, report a bug or make a request here.
+If you are having technical difficulties with this site, [report a bug or make a request here](https://github.com/18mr/18mr/issues).
 
-If you are having technical difficulties with a petition, report a bug or make a request here.
+If you are having technical difficulties with a petition, [report a bug or make a request here](https://github.com/18mr/action/issues).
