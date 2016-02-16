@@ -15,10 +15,26 @@
           <li><h2>{{ site.description }}</h2></li>
 		  <li>
 		  	<div class="copy-logo">©</div>
-			<span>18MR.org. <a href="http://18millionrising.org/about/copyright/">Some rights reserved</a>.</span>
+			<span>18MR.org. <a href="{{ site:baseurl }}/copyleft/">Some rights reserved</a>.</span>
+		  </li>
+		  <li>
+			<form id="sitesearch" action="https://duckduckgo.com" method="get" target="_new">
+			<div>
+			<input type="text" name="q" value="">
+			<input type="submit" value="search">
 			</div>
+			</form>
+			<script>
+				jQuery(function($) {
+					$('#sitesearch').submit(function() {
+						var txt = $('input[name=q]');
+						txt.val("site:18millionrising.org " + txt.val());
+					});
+				});
+			</script>
 		  </li>
         </ul>
+	  </div>
 
       <div class="footer-col  footer-col-2">
         <ul class="footer-list">

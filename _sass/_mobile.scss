@@ -1,35 +1,147 @@
+/* Header and Menus, All Devices */
+.f-nav { 
+	z-index: 9999; 
+	position: fixed; 
+	left: 0; 
+	top: 0; 
+	padding: 0 $spacing-unit / 2;
+	width: 100%;
+	border-bottom: 1px $the-gray solid;
+	background-color: lighten($the-beige, 5%);
+}
+
+@media only screen 
+	and (max-width: 900px) {
+
+	.home {
+		width: 100%;
+		float: none;
+	}
+	
+	/* Header */
+	.mobile {
+		padding: 0 $spacing-unit / 2 0;
+		display: inline-block;
+		width: 100%;
+		border-bottom: 1px $the-gray solid;
+		
+		.mobileheader {
+			
+			#open-menu div {
+				background-image: url("../static/images/mobile-menu-sprite.png");
+				width: 27px;
+				height: 27px;
+				margin: 23px 15px 0 0;
+				float: left;
+				background-position: 27px 27px;
+				
+				span {
+					position: absolute;
+					width: 27px;
+					height: 27px;
+					background-image: url("../static/images/mobile-menu-sprite.png");
+					background-position: 0 27px;
+					opacity: 1;
+					@include fade-transition(opacity 0.5s);
+					
+					&:hover {
+						opacity: 0;
+					}
+				}
+			}
+		}
+	
+		#logo {
+			float: none;
+			margin-left: 42px;
+		
+			div {
+				background-image: url("../static/images/header-logo-sprite-mobile.png");
+				background-repeat: no-repeat;
+				background-position: 0 0;
+				width: 65px;
+				height: 43px;
+				position: relative;
+		
+				span {
+					position: absolute;
+					top: 0;
+					left: 0;
+					bottom: 0;
+					right: 0;
+					background-image: url("../static/images/header-logo-sprite-mobile.png");
+					background-repeat: no-repeat;
+					background-position: 0 -42px;
+					opacity: 1;
+					@include fade-transition(opacity 0.5s);
+  
+					&:hover {
+						opacity: 0;
+					}
+				}
+	
+			}
+		}
+	}
+	
+	.desktop {
+		display: none;
+	}
+	
+	/* Menu */
+	
+	#mobilemenu {
+		position: absolute;
+		left: 0;
+		z-index: 9999;
+		background-color: lighten($the-beige, 5%);
+		padding: $spacing-unit / 2;
+		border: 1px $the-gray solid;
+		border-left: 0;
+		
+		ul {
+			list-style: none;
+			margin-left: 0;
+			margin-bottom: 0;
+			
+			li {
+				display: block;
+				padding: 5px;
+				margin: auto;
+				text-align: center;
+				
+				.socialmedia {
+					margin: auto;
+				}
+				
+				a {
+					font-family: league-gothic;
+					font-size: 1.6em;
+					text-transform: uppercase;
+				}
+			}
+		}
+	}
+	
+	/* Body */
+	.wrapper {
+		max-width: 98%;
+	}
+	
+	.featured-post {
+		padding: 0 15px;
+	}
+}
+
 /* Small Device */
 
 @media only screen 
-	and (max-width: 768px) {
+	and (max-width: 766px) {
 	
 	/* General */
 	
 	.wrapper {
-		width: 95%;
-	}
-	
-	header #logo {
-		width: 131px;
-		float: none;
-		margin: auto;
-		
-		hgroup {
-		
-			h1 {
-				display: none;
-			}
-		}
-	}
-	
-	nav#top-links {
-		
-		ul {
-		
-			li {
-				max-width: 100%;
-			}
-		}
+
 	}
 	
 	/* Homepage */
@@ -38,42 +150,5 @@
 		width: 100%;
 		float: none;
 		margin-top: 0;
-	}
-	
-	.site-header {
-		height: auto;
-		
-		#top-links ul {
-			height: auto;
-			margin-top: 5px;
-			
-			li {
-				width: 100%;
-				border-right: 0;
-				border-left: 0;
-				margin-left: 0;
-				margin-top: 3px;
-				
-				&:first-child, &:last-child {
-					@include radius(0);
-				}
-				
-				a {
-					width: 100%;
-				}
-			}
-		}
-	}
-}
-	
-/* Medium Device */
-
-@media only screen 
-	and (max-width: 992px)
-	and (min-width: 769px) {
-
-	.home {
-		width: 100%;
-		float: none;
 	}
 }
