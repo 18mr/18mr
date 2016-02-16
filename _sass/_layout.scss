@@ -385,6 +385,7 @@ h2 {
 .post-meta {
     font-size: $base-font-size;
     color: $grey-color;
+	text-transform: capitalize;
 }
 
 .post-link {

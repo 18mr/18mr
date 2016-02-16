@@ -1,18 +1,20 @@
 <div id="social-sidebar">
 	<div class="featured-campaign">
 		{% for campaign in site.campaigns limit:1 %}
-			<span class="campaign-title">{{ campaign.title }}</span>
+			<h1 class="campaign-title">{{ campaign.title }}</h1>
 			<a href="{{ campaign.campaign-link }}"><img class="campaign-thumbnail" src="{{ campaign.thumbnail }}" alt="{{ campaign.alt }}"></a>
-			<span class="campaign-blurb">{{ campaign.blurb }}</span>
+			<p class="campaign-blurb">{{ campaign.blurb }}</p>
 			<h3 class="actionbutton">
 				<a class="post-link" href="{{ campaign.campaign-link }}?source=18mr-blog">TAKE ACTION</a>
 			</h3>
 		{% endfor %}
 	</div>
 
-	<a class="twitter-timeline" data-dnt="true" href="https://twitter.com/18millionrising" data-widget-id="309117337691357184">Tweets by @18millionrising</a>
-	<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+	<div class="social-embed">
+		<a class="twitter-timeline" data-dnt="true" href="https://twitter.com/18millionrising" data-widget-id="309117337691357184">Tweets by @18millionrising</a>
+		<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 	
-	<div class="fb-page" data-href="https://www.facebook.com/18MillionRising.org" data-width="300" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true" data-show-posts="false"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/18MillionRising.org"><a href="https://www.facebook.com/18MillionRising.org">18 Million Rising</a></blockquote></div></div>
-
+		<div class="fb-page" data-href="https://www.facebook.com/18MillionRising.org" data-width="300" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true" data-show-posts="false"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/18MillionRising.org"><a href="https://www.facebook.com/18MillionRising.org">18 Million Rising</a></blockquote></div></div>
+	</div>
+		
 </div>
