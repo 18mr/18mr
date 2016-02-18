@@ -386,6 +386,8 @@ h2 {
     font-size: $base-font-size;
     color: $grey-color;
 	text-transform: capitalize;
+	margin-bottom: 5px;
+	line-height: 1.5em;
 }
 
 .post-link {
@@ -524,6 +526,8 @@ h2 {
 		
 		.campaign-blurb {
 			font-style: italic;
+			line-height: 1.2em;
+			text-align: center;
 		}
 	}
 	

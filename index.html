@@ -34,7 +34,6 @@ layout: sidebar-page
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
         <p class="post-meta">{{ post.category }} • {{ post.date | date: "%b %-d, %Y" }}{% if post.author %} • By {{ post.author }}{% endif %}{% if post.meta %} • {{ post.meta }}{% endif %}</p>
-		<br />
 		<p class="blurb">
 		  {{ post.blurb | truncatewords: 125, '...' }} <a href="{{ post.url | prepend: site.baseurl }}">Read More</a>
 		</p>

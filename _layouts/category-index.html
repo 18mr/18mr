@@ -5,7 +5,7 @@ layout: sidebar-page
 	<h1 class="cat-title">{{ page.category }}</h1>
 {% endif %}
 
-<ul class="post-list cat-top">
+<ul class="post-list" id="cat-top">
 {% for post in paginator.posts limit:1 %}
 	<li>
 	    <a href="{{ post.url | prepend: site.baseurl }}">{% if post.featured-image %}
@@ -16,26 +16,29 @@ layout: sidebar-page
 	    <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}{% if post.author %} • By {{ post.author }}{% endif %}{% if post.meta %} • {{ post.meta }}{% endif %}</span>
-		<br />
-		<span class="blurb">
+        <p class="post-meta">{{ post.date | date: "%b %-d, %Y" }}{% if post.author %} • By {{ post.author }}{% endif %}{% if post.meta %} • {{ post.meta }}{% endif %}</p>
+		<p class="blurb">
 		  {{ post.blurb | truncatewords: 200 }}
-		</span>
+		</p>
       </li>
 {% endfor %}
 </ul>
 
-<ul class="post-list cat-remainder">
+<ul class="post-list" id="cat-remainder">
 {% for post in paginator.posts offset:1 %}
 	<li>
+		<a href="{{ post.url | prepend: site.baseurl }}">{% if post.featured-image %}
+			<img src="{{ post.featured-image }}" class="featured cat-featured" alt="{{ post.featured-alt-text }}">
+		{% else %}
+		{% endif %}
+		</a>
 	    <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}{% if post.author %} • By {{ post.author }}{% endif %}{% if post.meta %} • {{ post.meta }}{% endif %}</span>
-		<br />
-		<span class="blurb">
+        <p class="post-meta">{{ post.date | date: "%b %-d, %Y" }}{% if post.author %} • By {{ post.author }}{% endif %}{% if post.meta %} • {{ post.meta }}{% endif %}</p>
+		<p class="blurb">
 		  {{ post.blurb | truncatewords: 125, '...' }} <a href="{{ post.url | prepend: site.baseurl }}">Read More</a>
-		</span>
+		</p>
       </li>
 {% endfor %}
 </ul>

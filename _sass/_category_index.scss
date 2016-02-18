@@ -3,7 +3,7 @@
 	font-size: 4em;
 }
 
-.cat-top {
+#cat-top {
 	width: 100%;
 	float: none;
 	
@@ -17,7 +17,11 @@
 	}
 }
 
-.cat-remainder {
+#cat-remainder {
 	width: 55%;
 	float: left;
+	
+	.cat-featured{
+		display: none;
+	}
 }
