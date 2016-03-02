@@ -1,0 +1,27 @@
+---
+layout: post
+title: "We Cannot Walk Alone: Remembering the March on Washington"
+category: communities
+author: C.M. Samala
+featured-image: '/static/images/featured/2013-08-27-we-cannot-walk-alone.jpg'
+featured-alt-text: "A photo of an Asian man with a mustache and goatee, in a yellow t-shirt, holding a sign that reads 'MISS(ED) SAIGON' against a red background. His eyes are cut off in the image."
+tweet: "Our nation does not exist solely in black and white — and it never has."
+facebook: "Our nation does not exist solely in black and white — and it never has."
+blurb: "Our nation does not exist solely in black and white — and it never has. Today, we Americans come in an array of races, colors, religions, gender identities, sexual orientation and ethnicities. The diversity of our country doesn't only make us unique, it makes us strong. Asian Americans are some of the newest contributors to this nation's diversity (many of us arriving after 1965), and with this newness comes responsibility."
+---
+
+Four words from Dr. Martin Luther King, Jr.’s “I Have a Dream” speech are ringing in my ears today: ___We cannot walk alone___.
+
+On August 28, 1963, hundreds of thousands of Americans came to our nation's capitol calling for civil and economic rights for African Americans. About three out of every four demonstrators were African American and, by and large, the other 25% were white. My team and I looked for images of Asian Pacific Americans at the March to share today and quickly found that the usual Google search wouldn’t cut it. Not because Asian Pacific Americans didn't support civil and economic rights for all, but because the March happened two years before the Immigration and Nationality Act of 1965 was passed.
+
+__When the March on Washington happened fifty years ago, the United States still had an immigration policy in place that banned people__ from Japan, China, the Philippines, Thailand, Laos, Vietnam, Cambodia, Singapore, Korea, Indonesia, Burma, India, Sri Lanka and Malaysia from becoming American citizens, or even coming to this country altogether. The fight for immigration reform continues today, and so does the debate over who is American and who gets to become American. When I read or hear the "I Have a Dream” speech though, I'm encouraged by the stark contrast between how Dr. King describes Americans in 1963 and the faces we have in this country today.
+
+Our nation does not exist solely in black and white — and it never has. Today, we Americans come in an array of races, colors, religions, gender identities, sexual orientation and ethnicities. The diversity of our country doesn't only make us unique, it makes us strong. Asian Americans are some of the newest contributors to this nation's diversity (many of us arriving after 1965), and with this newness comes responsibility. The responsibility of exercising our rights as citizens. The responsibility of honoring Dr. King’s vision in a way that stitches together our recent historical chapter and those that came before ours. __I’d love to see us, as Asian Pacific Americans, take this day in history as a chance to breathe life into the heart of Dr. King’s dream: _That all our children will one day live in a nation where they are judged by nothing but the content of their character.___
+
+Strides towards equality and justice have been made in the past fifty years. Most recently, the Defense of Marriage Act was defeated. Six years ago the Lilly Ledbetter Act was passed to protect fair pay. At the end of the year, millions of Americans will have access to affordable health care for the very first time. Let us not forget though that, just a few months ago, key provisions of the Voting Rights Act, an important legacy of the Civil Rights Movement, were gutted. Just last November, Korean American seniors in Virginia were separated from other voters at a polling station, ordered to say their name and home address in English, then told to form a new line so other voters could pass. South Asian, Muslim and Sikh members of our community continue to be targets of hate crimes and the media continues to insist on using Asian stereotypes as the tropes and the butt of frequently racist jokes. While we’ve come a long way in this nation, we have further still to go.
+
+I’d like to ask you to honor the legacy of those who marched today. Celebrate and exercise the freedoms and rights we have as citizens of this nation. Remember that whenever we talk about an "us" or a "them," their destiny is connected to ours; their freedom is our freedom. In creating a more perfect union, a more just tomorrow, a brighter future, we must walk together. Please help us honor this day. Commit to never letting your family, your friends, your community, your fellow Americans walk alone. __We cannot, we should not, walk alone.__
+
+_C.M. Samala is Director of 18MR.org_
+
+__A note about the person quoted with the photograph from the Japanese American Citizens League.__ Yuri Kochiyama wasn’t in Washington D.C. on this day fifty years ago, but she's a powerful figure in the AAPI community and activist from the Civil Rights Movement. The night of Malcolm X's assassination, Yuri was the only person in a crowd of thousands who chose not to crawl to safety in the wake of the gunshots. Instead, she chose to comfort her friend, moving closer to Malcolm X and cradling him in her arms. She refused to let Malcolm walk his final steps alone.
