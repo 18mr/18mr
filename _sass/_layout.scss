@@ -373,8 +373,12 @@ h2 {
     list-style: none;
 	padding-right: 15px;
 
-    > li {
+    > li.post-preview {
         margin-bottom: $spacing-unit;
+		
+		&:after {
+			@extend %clearfix;
+		}
     }
 	
 	.blurb {
