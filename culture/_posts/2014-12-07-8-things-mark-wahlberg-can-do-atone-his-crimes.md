@@ -2,6 +2,7 @@
 layout: post
 title: "8 Things Mark Wahlberg Can Do To Atone For His Crimes"
 category: culture
+tags: featured
 author: Cayden Mak
 featured-image: '/static/images/featured/2014-12-07-8-things-mark-wahlberg.jpg'
 featured-alt-text: "Mark Wahlberg, clean shaven and wearing a suit and tie, smiles as he is lit from the front against a black background. The photograph is of his shoulders and head, and he is in 3/4 profile."

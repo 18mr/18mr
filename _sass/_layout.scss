@@ -314,6 +314,10 @@ h2 {
 	padding: 15px;
 	margin-bottom: 15px;
 	
+	&:after {
+		@extend %clearfix;
+	}
+	
 	.featured-thumb {
 		width: 40%;
 		float: left;

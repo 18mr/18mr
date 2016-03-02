@@ -24,7 +24,8 @@ layout: sidebar-page
 {% endfor %}
 </ul>
 
-<ul class="post-list" id="cat-remainder">
+<div class="cat-remainder">
+<ul class="post-list">
 {% for post in paginator.posts offset:1 %}
 	<li>
 		<a href="{{ post.url | prepend: site.baseurl }}">{% if post.featured-image %}
@@ -66,3 +67,4 @@ layout: sidebar-page
 		{% endif %}
 	</div>
   {% endif %}
+</div>
