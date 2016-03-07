@@ -9,6 +9,10 @@ layout: sidebar-page
 <div class="post">
 
   <article class="post-content">
+	{% if page.featured-image %}
+       <img src="{{ page.featured-image }}" class="featured-main" alt="{{ page.featured-alt-text }}">
+	{% else %}
+	{% endif %}
     {{ content }}
   </article>
     
