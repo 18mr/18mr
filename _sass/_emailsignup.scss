@@ -33,6 +33,8 @@
 	}
 	
 	#can_embed_form {
+		min-width: 0;
+		
 		#can_thank_you {
 			@include radius(10px);	
 			background-color: transparent;
@@ -73,7 +75,6 @@
 			overflow: hidden;
 			
 			@include media-query($small) {
-				width: 250px !important;
 			}
 		}
 		
@@ -123,6 +124,10 @@
 				text-transform: uppercase;
 				font-weight: 400;
 				background-color:#ea2485;
+				
+				@include media-query(330px) {
+					font-size: .8em;
+				}
 			}
 			
 			&.signed-in {
