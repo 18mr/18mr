@@ -20,3 +20,4 @@ You can use and redistribute content produced by 18MR.org on a couple simple con
 ##Creative Commons Site Elements
 
 - Mobile menu icons by David Pareja, via [The Noun Project](http://thenounproject.com)
+- Other icons are original
