@@ -1,12 +1,15 @@
 <div id="social-sidebar">
 	<div class="featured-campaign">
-		{% for campaign in site.campaigns limit:1 %}
+		{% for campaign in site.campaigns %}
+		{% if campaign.current == true %}
 			<h1 class="campaign-title">{{ campaign.title }}</h1>
 			<a href="{{ campaign.campaign-link }}"><img class="campaign-thumbnail" src="{{ campaign.thumbnail }}" alt="{{ campaign.alt }}"></a>
 			<p class="campaign-blurb">{{ campaign.blurb }}</p>
 			<h3 class="actionbutton">
 				<a class="post-link" href="{{ campaign.campaign-link }}?source=18mr-blog">TAKE ACTION</a>
 			</h3>
+		{% else if %}
+		{% endif %}
 		{% endfor %}
 	</div>
 
