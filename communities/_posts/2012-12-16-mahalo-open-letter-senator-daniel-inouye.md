@@ -11,12 +11,11 @@ permalink: /2012/12/Mahalo-open-letter-senator-daniel-inouye.html
 
 On Monday December 17, fearless leader, advocate, and WWII hero Senator Daniel K. Inouye passed away at the age of 88. 
 
-<a href="http://bit.ly/mahaloinouye">Join 18MR in saying Mahalo to Senator Inouye and his family</a> for his unwavering dedication and lifetime of service by signing this open letter.
-
-The following open letter thanking the Honorable Senator Inouye - along with signatures and individual comments - will be delivered to his family and staff. Please join 18MR in signing and sharing this letter <a href="http://bit.ly/mahaloinouye">here</a>.
+To say Maholo to Senator Inoouye and his family for his unwavering dedication and lifetime of service, 18MR gathered signatures on the following open letter. The letter, along with signatures and individual comments, was delivered to his family and staff.
 
 <p><em>Dear Senator Inouye:
-
+<br>
+<br>
 You will be greatly missed.
 
 As the most senior member of the U.S. Senate and the highest-ranking Asian American politician in U.S. history, your legacy will always be remembered. Having represented Hawaii in the U.S. Congress since it achieved statehood in 1959 -- first as its U.S.Representative and then as its Senator -- you are truly an inspiration.
