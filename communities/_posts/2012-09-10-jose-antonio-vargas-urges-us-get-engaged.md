@@ -3,6 +3,7 @@ layout: post
 title: "Jose Antonio Vargas Urges Us to Get Engaged"
 category: communities
 featured-image: '/static/images/featured/2012-09-10-jose-antonio-vargas-urges-us-get-engaged.jpg'
+author: Jose Antonio Vargas
 featured-alt-text: "Jose Antonio Vargas, a Filipino American man in a blue shirt, sits behind a blue laptop. Behind him, there is a stylized stars-and-stripes burst background with images of newspaper headlines." 
 tweet: "#MyAAPIVote: @joseiswriting explains why it's critical we use our voices at the ballot box."
 facebook: "#MyAAPIVote: Jose Antonio Vargas urges us to use our voices at the ballot box."
