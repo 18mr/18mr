@@ -15,7 +15,10 @@ layout: sidebar-page
 			<p class="blurb">
 				{{ post.blurb }}
 			</p>
-			<h3>By {{ post.author }}</h3>
+			{% if post.author %}
+				<h3>By {{ post.author }}</h3>
+			{% else %}
+			{% endif %}
 		</div>
 	{% endfor %}
 </div>
