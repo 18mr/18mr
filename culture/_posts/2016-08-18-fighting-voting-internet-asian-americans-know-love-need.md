@@ -5,9 +5,9 @@ category: culture
 author: Mark Tseng Putterman
 featured-image: '/static/images/featured/2016-08-18-fighting-voting-internet-asian-americans-know-love-need.png'
 featured-alt-text: "A child sits in front of a laptop computer with their arms raised in triumph. In the background is a collage of images depicting various trends in Asian American online popular culture and political organizing."
-tweet: "AAPIs are using online tools to break down barriers. @tsengputterman explains: #MyAAPIVote is for progressive internet policy."
+tweet: "AAPIs are using online tools to break down barriers. This November, we can't take an open internet for granted via @18millionrising"
 facebook: "Thanks to Net Neutrality, Asian American cultural and political innovation is thriving online. This November, our votes should reflect the need to defend our rights online from corporate gatekeeping."
-blurb: "From #OscarsSoWhite to #Asians4BlackLives, we're creating a thriving political and cultural Asian American ccommunity online. But we can't take an open, democratic internet for granted."
+blurb: "From #OscarsSoWhite to #Asians4BlackLives, we're creating a thriving political and cultural Asian American community online. But we can't take an open, democratic internet for granted."
 permalink: /2016/08/fighting-voting-internet-asian-americans-know-love-need.html
 ---
 Of the 225 million Americans eligible to head to the polls in November will be some [9 million](http://www.pewresearch.org/fact-tank/2016/02/03/2016-electorate-will-be-the-most-diverse-in-u-s-history/) Asian Americans. It’s a segment of the electorate that’s hard to categorize.
