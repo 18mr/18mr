@@ -9,7 +9,11 @@ tweet: "Asian Americans must draw on past solidarity with Native struggle and su
 facebook: "Asian Americans must draw on our historical spirit of solidarity and shared struggle with Native American communities to support the #NoDAPL fight for Sioux self-determination at Standing Rock."
 permalink: /2016/09/asian-americans-must-stand-with-standing-rock.html
 ---
-We’re in the middle of a historic racial justice protest, but you wouldn’t know it from scanning the headlines of mainstream news outlets. 
+<HR>
+<p style="font-size:12px"><i>UPDATE: On September 9, 2016, the Department of Justice, Department of the Army, and the Department of the Interior issued a <a href = "https://www.justice.gov/opa/pr/joint-statement-department-justice-department-army-and-department-interior-regarding-standing">joint statement</a> halting construction of the pipeline on U.S. Army Corps land bordering or under Lake Oahe pending review. But the fight continues and Standing Rock Sioux issued a statement on Facebook saying "we are acting immediately on our legal options, including filing an appeal and a temporary injunction to force DAPL to stop construction".</i></p>
+<HR>
+
+<b>We’re in the middle of a historic racial justice protest, but you wouldn’t know it from scanning the headlines of mainstream news outlets.</b> 
 
 A massive standoff is raging in Standing Rock, North Dakota, as members of the Standing Rock Sioux tribe lead thousands of peaceful protesters to disrupt the construction of an oil pipeline they say would threaten their environmental and economic well-being and desecrate Sioux sites of cultural and religious importance. 
 
