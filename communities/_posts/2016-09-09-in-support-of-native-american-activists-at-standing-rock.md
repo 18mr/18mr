@@ -10,7 +10,7 @@ facebook: "Asian Americans must draw on our historical spirit of solidarity and 
 permalink: /2016/09/asian-americans-must-stand-with-standing-rock.html
 ---
 <HR>
-<p style="font-size:12px"><i>UPDATE: On September 9, 2016, the Department of Justice, Department of the Army, and the Department of the Interior issued a <a href = "https://www.justice.gov/opa/pr/joint-statement-department-justice-department-army-and-department-interior-regarding-standing">joint statement</a> halting construction of the pipeline on U.S. Army Corps land bordering or under Lake Oahe pending review. But the fight continues and Standing Rock Sioux issued a statement on Facebook saying "we are acting immediately on our legal options, including filing an appeal and a temporary injunction to force DAPL to stop construction".</i></p>
+<p style="font-size:12px"><i>UPDATE: On September 9, 2016, the Department of Justice, Department of the Army, and the Department of the Interior issued a <a href = "https://www.justice.gov/opa/pr/joint-statement-department-justice-department-army-and-department-interior-regarding-standing">joint statement</a> halting construction of the pipeline on U.S. Army Corps land bordering or under Lake Oahe pending review. Despite the statement, Energy Transfer Parterns, the corporation behind the pipeline, has <a href = "http://www.commondreams.org/news/2016/09/13/dakota-access-construction-will-continue-pipeline-corp-ceo-vows">vowed</a> to continue construction, which has reportedly resumed just 70 miles away from Lake Oahe.</i></p>
 <HR>
 
 <b>We’re in the middle of a historic racial justice protest, but you wouldn’t know it from scanning the headlines of mainstream news outlets.</b> 
@@ -46,15 +46,19 @@ The overlaps, and disconnects, between Asian American and Native American commun
 3. Help cover operational costs -- for water, propane, food and blankets -- at Sacred Stone Camp by donating to their [GoFundMe campaign](https://www.gofundme.com/sacredstonecamp).
 &nbsp;
 
-4. Sign the [White House petition](https://petitions.whitehouse.gov/petition/stop-construction-dakota-access-pipeline-which-endangers-water-supply-native-american-reservations) demanding an official response from the President.&nbsp;
-
-5. Call North Dakota Governor Jack Dalrymple at (701) 328-2200 to demand protections for protesters and an end to hostilities against them.
+4. Support [Red Warrior Camp](https://nodaplsolidarity.org/support-the-camps/), a sister site to Sacred Stone that is on the frontlines of DAPL resistance. You can donate to Red Warrior Camp's [legal fees](https://www.generosity.com/fundraising/red-warrior-camp-legal-fund-nodapl), or send items from their [Amazon wish list](https://www.amazon.com/gp/registry/wishlist/1QSHN0U0QGJW0/ref=cm_sw_su_w). 
 &nbsp;
 
-6. Call or email your Congressional Representative or Senator. To find your representative, [click here](http://www.house.gov/representatives/find/). You can find suggested language at the Standing Rock Sioux [website](http://standingrock.org/news/call-for-support--stand-with-standing-rock/).
+5. Sign the [White House petition](https://petitions.whitehouse.gov/petition/stop-construction-dakota-access-pipeline-which-endangers-water-supply-native-american-reservations) demanding an official response from the President.
 &nbsp;
 
-7. Share independent news and commentary to spread awareness about DAPL, especially those centering Native American voices.
+6. Call North Dakota Governor Jack Dalrymple at (701) 328-2200 to demand protections for protesters and an end to hostilities against them.
+&nbsp;
+
+7. Call or email your Congressional Representative or Senator. To find your representative, [click here](http://www.house.gov/representatives/find/). You can find suggested language at the Standing Rock Sioux [website](http://standingrock.org/news/call-for-support--stand-with-standing-rock/).
+&nbsp;
+
+8. Share independent news and commentary to spread awareness about DAPL, especially those centering Native American voices.
 <ul><ul>
 			<li><a href ="http://indiancountrytodaymedianetwork.com/2016/09/03/why-founder-standing-rock-sioux-camp-cant-forget-whitestone-massacre-165672">Why The Founder of Standing Rock Sioux Camp Can’t Forget the Whitestone Massacre</a>, Indian Country Today Media Network</li>
 			<li><a href = "https://www.jacobinmag.com/2016/09/standing-rock-dakota-access-pipeline-protest/">A History and Future of Resistance</a>, Julian Brave NoiseCat and Anne Spice</li> 
