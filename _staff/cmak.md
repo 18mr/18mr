@@ -1,8 +1,8 @@
 ---
 name: "Cayden Mak"
 photo: "/static/images/staff/cayden.jpg"
-title: "Chief Technology Officer"
-weight: 2
+title: "Interim Executive Director"
+weight: 1
 ---
 Cayden Mak builds technology and designs beautiful things to help build movement both online and off. Their work has long occupied the intersection of social justice and technology, whether it’s mapping responses to the Zimmerman verdict or punking the Gap for their international labor abuses. They are part of [Changelab](http://changelabinfo.com)'s core RaceLab, and their writing can be found in _Civicist_, _The Grassroots Fundraising Journal_, and other publications that concern themselves with people power and the internet. 
 
