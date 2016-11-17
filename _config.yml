@@ -5,7 +5,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Activating Asian America
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://18millionrising.org" # the base hostname & protocol for your site
-twitter_username: 18millionrising
+twitter_username: https://twitter.com/18millionrising
 facebook: https://facebook.com/18MillionRising.org
 tumblr: http://18mr.tumblr.com
 insta: http://instagram.com/18millionrising
