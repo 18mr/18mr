@@ -6,7 +6,7 @@ author: "Oanh-Nhi Nguyen"
 featured-image: '/static/images/featured/GLB.png'
 featured-alt-text: "Picture of Grace Lee Boggs sitting on a sofa chair with her quote: A revolution that is based on the people exercising their creativity in the midst of devastation is one of the great historical contributions of humankind."
 blurb: "Today, Donald Trump is taking oath of office to become the 45th U.S. President. We are filled with worry about what the future might hold and we remain steadfast in our commitment to you."
-tweet: "%4018MillionRising.org's commitments for the next four years. %23AsiansResist"
+tweet: ".%4018MillionRising.org's commitments for the next four years. %23AsiansResist"
 facebook: "Share your ideas and collaborate with 18MillionRising.org. Check out their commitments for the next four years. #AsiansResist"
 permalink: /2017/01/inauguration.html
 ---
