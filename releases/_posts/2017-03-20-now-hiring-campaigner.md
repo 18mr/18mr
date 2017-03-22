@@ -5,6 +5,7 @@ category: releases
 tweet: "Check out this job as a campaigner with @18millionrising: "
 facebook: "We're growing our team: now hiring a campaigner to develop and manage our dynamic campaigns!"
 blurb: "We're growing our team: now hiring a campaigner to develop and manage our dynamic campaigns!"
+permalink: /2017/03/now-hiring-campaigner.html
 ---
 
 Could you be the next great addition to the 18MR team?
@@ -12,7 +13,7 @@ Could you be the next great addition to the 18MR team?
 ## About 18MR.org
 18MR.org was founded to promote AAPI civic engagement, influence and movement by leveraging the power of technology and social media. For the past four years, we've convened a network of creative, tech-savvy, and passionate individuals and organizations working in and with AAPI communities in every U.S. state and territory. 
 
-Our theory of change involves empowering AAPI communities from within while cultureshifting the perspectives of those outside our communities. We work on a wide variety of projects, including year-round civic activity locally and nationally; campaigns to hold corporations accountable; build interracial coalitions; and develop our shared identities through popular culture and online engagement.
+Our theory of change involves empowering AAPI communities from within while cultureshifting the perspectives of those outside our communities. We work on a wide variety of projects, including year-round civic activity locally and nationally; campaigns to hold corporations accountable; building interracial coalitions; and developing our shared identities through popular culture and online engagement.
 
 We’re agile, inspired, and create opportunities by bringing diverse partners into unlikely coalitions. 21st century community power can be built through smart tech and good organizing, and our campaign wins and vision are testament to how we can bring them together to advance rights and justice in our communities, in our country, in our nations of origins, and beyond.
 
@@ -59,7 +60,7 @@ Salary is commensurate with experience, between $45,000 and $60,000/year.
 
 As we are a distributed team, your primary residence may be located anywhere in the United States; current staff are based in Los Angeles and the San Francisco Bay Area.
 
-Through our fiscal sponsor, Allied Media Projects, we offer a competitive benefits package including generous vacation; full health, dental, vision and flex benefits; 401b program; ongoing training opportunities; and allowances for coworking space in your area.
+Through our fiscal sponsor, Allied Media Projects, we offer a competitive benefits package including generous vacation; full health, dental, vision and flex benefits; 403b program; ongoing training opportunities; and allowances for coworking space in your area.
 
 We are an equal opportunity employer that values diversity as central to our work serving underrepresented communities, and we encourage candidates from a wide range of backgrounds to apply.
 
