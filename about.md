@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-#About 18MR.org
+# About 18MR.org
 
 When we launched in September 2012, there were approximately __18 million Asians and Pacific Islanders in the United States__, representing nearly 6% of the total population and growing faster than any other racial group. Despite that, Asian Americans remain one of the most politically under–organized, under–engaged, and under–represented constituencies: only 55% of Asian American citizens of voting age are registered to vote — the lowest rate of all races. 
 
@@ -30,6 +30,12 @@ The next couple years hold incredible potential for rapid change. We’re ready 
 {% endfor %}
 {% endfor %}
 </ul>
+
+# Community Guidelines
+
+Please remember that comments on 18MR.org are public and our audience includes everyone from ages 13 to 93. We ask that you curb crude language on our site and we reserve the right moderate comments that attack particular individuals or groups; are not in the spirit of civil discourse; are not relevant to the subject matter; or violate our privacy policy. We tend to be generous, but we simply ask that you veer away from attacking people towards and towards interrogating their ideas.
+
+Discourse over dissing, as a rule. We're here to build community, and we hope you are, too.
 
 <h1 id="contact">Contact Us</h1>
 
