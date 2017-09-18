@@ -1,6 +1,6 @@
 ---
 name: "Laura Li"
-photo: "/static/images/staff/laura.png"
+photo: "/static/images/staff/laura.PNG"
 title: "Campaigner"
 weight: 3
 ---
