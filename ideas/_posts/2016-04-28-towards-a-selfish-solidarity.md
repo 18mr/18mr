@@ -2,12 +2,14 @@
 layout: post
 title: "Towards a Selfish Solidarity: Building Deep Investment in the Movement for Black Lives"
 category: ideas
+tags: featured
 author: "Sasha W."
 featured-image: '/static/images/featured/2016-04-28-towards-a-selfish-solidarity.jpg'
 featured-alt-text: "A group of South Asian American protestors outside, smiling, holding signs with messages like 'Tone down police aggression' and It could be my grandpa! (sad smiley face)'"
-tweet: "Sasha W. explores 'selfish solidarity': how we go from saying #BlackLivesMatter to living it."
+tweet: "Sasha W. explores 'selfish solidarity': how we go from saying %23BlackLivesMatter to living it."
 facebook: "Sasha W. explores 'selfish solidarity': how we go from saying #BlackLivesMatter to living it."
 blurb: "The need for a deep and selfish solidarity of South Asians with #BlackLivesMatter became nationally visible last year. Sureshbhai Patel, an Indian man visiting America to care for his grandson, was mistaken for “a skinny Black man” by a neighbor who called the cops. When the cops could not communicate with him, because Mr. Patel does not speak English, one officer brutally slammed Mr. Patel into the ground, leaving him partially paralyzed. The police were called on Mr. Patel because he was mistaken for “a skinny Black man;” he was brutalized, beaten to the point of literal paralysis but not killed, because he was understood to be Indian and immigrant."
+permalink: /2016/04/towards-a-selfish-solidarity.html
 ---
 
 “Do you worry about your son?”
@@ -41,3 +43,5 @@ I’m writing this piece from my own experiences, as an upper-middle class Lanka
 Here’s to getting free.
 
 _Sasha W. is a 2nd generation queer Sri Lankan living in Los Angeles._
+
+_This post originally posted at [To Speak A Song](https://tospeakasong.com/2016/02/29/towards-a-selfish-solidarity-building-deep-investment-in-the-movement-for-black-lives/)._

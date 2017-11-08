@@ -271,10 +271,18 @@ ul#footer {
 
 .left-list {
 	float: left;
+	
+	li {
+		line-height: 1.2em;
+	}
 }
 
 .right-list {
 	float: right;
+	
+	li {
+		line-height: 1.2em;
+	}
 }
 
 #sitesearch {
@@ -366,6 +374,10 @@ h2 {
 			float: left;
 		}
 	}
+}
+
+hr {
+	margin-bottom: $spacing-unit / 2;
 }
 
 .page-heading {
