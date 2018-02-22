@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Perpetual Foreigners and Enemies: ICE plans to generate 10K deportation leads per year"
+title: "Perpetual Foreigners in ICE's Virtual Dragnet"
 category: ideas
 tags: featured
 author: "Laura Li"
