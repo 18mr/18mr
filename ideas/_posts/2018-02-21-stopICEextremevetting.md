@@ -4,12 +4,12 @@ title: "Perpetual Foreigners and Enemies: ICE plans to generate 10K deportation 
 category: ideas
 tags: featured
 author: "Laura Li"
-featured-image: '/static/images/featured/2018-02-08-ICE-Virtual-Dragnet_SM-191x1111-update.jpg'
+featured-image: '/static/images/featured/2018-02-08-ICE-Virtual-Dragnet.jpg'
 featured-alt-text: "A flier reading ICE's Virtual Dragnet and a picture of a passport"
 tweet: "Asian Americans and communities of color will be caught in %23ICE Dragnet that will continuously scan social media/internet to flag 10,000+ ppl annually for deportation investigations or visa denials based on vague criteria."
 facebook: "ICE plans to build a deportation machine that will continuously scan social media to flag 10,000+ people for deportation per year and Asian Americans and other people of color will be targeted."
 blurb: "As Asian Americans we know that our communities and other communities of color are going to be specifically targeted because citizenship status has never protected us from being treated like we’re enemies or foreigners."
-permalink: /2018/02/stop-ICE-deportation-machine.html
+permalink: /2018/02/stop-ICE-Virtual-Dragnet.html
 ---
 _ICE is planning to develop a deportation machine under the guise of an “Extreme Vetting Initiative” that will use social media monitoring to generate a minimum of 10,000 deportation leads per year. On Tuesday January 20th, 18MR’s Laura Li spoke on a panel on Capitol Hill with immigration and privacy experts to urge Congress to act quickly and prevent DHS and ICE from allowing the Extreme Vetting Initiative to move forward. This post is the text of 18MR’s expanded comments that Laura Li delivered with additional background on the Extreme Vetting Initiative._
 
