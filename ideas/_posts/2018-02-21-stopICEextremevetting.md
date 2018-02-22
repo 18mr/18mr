@@ -50,6 +50,6 @@ The government monitoring our online activity to determine whether someone gets 
 
 ICE’s use of social media monitoring will only serve to chill free speech while targeting people of color, naturalized citizens, and long term visa holders. We know that ICE will inevitably share this information with other agencies and more people will be caught in the dragnet. Congress needs to take action and press DHS to end the program before it’s deployed.
 
-_If you were unable to attend the ICE's Virtual Dragnet: Using Social Media to Generate 10K Deportation Leads Per Year briefing, [you can catch a recording of the entirety here.] (https://www.facebook.com/18MillionRising.org/videos/1801539696544262/)_
+_If you were unable to attend the ICE's Virtual Dragnet: Using Social Media to Generate 10K Deportation Leads Per Year briefing, [you can catch a recording of the entirety here.](https://www.facebook.com/18MillionRising.org/videos/1801539696544262/)_
 
 _Laura Li is a Campaigner of 18MillionRising.org_
