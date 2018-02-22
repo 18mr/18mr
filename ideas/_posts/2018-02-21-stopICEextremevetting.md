@@ -6,8 +6,8 @@ tags: featured
 author: "Laura Li"
 featured-image: '/static/images/featured/2018-02-08-ICE-Virtual-Dragnet_SM-191x1111-update.jpg'
 featured-alt-text: "A flier reading ICE's Virtual Dragnet and a picture of a passport"
-tweet: "@ICEgov wants to continuously scan social media/internet to flag 10,000+ ppl annually for deportation investigations or visa denials based on vague criteria."
-facebook: ""
+tweet: "Asian Americans and communities of color will be caught in %23ICE Dragnet that will continuously scan social media/internet to flag 10,000+ ppl annually for deportation investigations or visa denials based on vague criteria."
+facebook: "ICE plans to build a deportation machine that will continuously scan social media to flag 10,000+ people for deportation per year and Asian Americans and other people of color will be targeted."
 blurb: "As Asian Americans we know that our communities and other communities of color are going to be specifically targeted because citizenship status has never protected us from being treated like we’re enemies or foreigners."
 permalink: /2018/02/stop-ICE-deportation-machine.html
 ---
@@ -25,7 +25,7 @@ Japanese American communities were also long surveilled before being forcibly re
 
 We’re seeing how global politics and war are yet again affecting how the U.S. views Asian Americans -- as perpetual foreigners, enemies and spies. Economic and military anxieties about China and East Asia’s rise to prominence is fueling paranoia among U.S. officials that trade secrets will be leaked to foreign governments. Asian Americans are the most likely to be charged with crimes of economic espionage than any other group. Research conducted by Andrew Kim of South Texas College of Law shows that in cases between 1997 and 2015, 62% of defendants charged since 2009 have been of Asian descent, with the number of those with Chinese heritage tripling during the same time.
 
-Economic Espionage and Domestic Civil Rights Violations
+*Economic Espionage and Domestic Civil Rights Violations*
 
 FBI Director Chris Wray told Congress during the recent Senate Intelligence Committee’s annual open hearing that Chinese students in the United States may be covertly gathering intelligence for their government back home. This automatically casts suspicion on all international students, professors, and academics, and jeopardizes scientific exchange. Wray’s comments aren’t surprising in the slightest: we’ve been witnessing an assault on Asian American scientists and researchers for years.
 
@@ -38,7 +38,7 @@ Through [Section 702](https://www.eff.org/deeplinks/2018/02/how-congresss-extens
 
 After the case was dismissed, Dr. Xi said he and his family are constantly afraid that “everything we’re doing, the F.B.I. is listening and some of the things we say or do may be twisted. That fear is in the back of our mind all the time.”
 
-Social Media Monitoring of Black and Muslim Americans
+*Social Media Monitoring of Black and Muslim Americans*
 
 Geofeedia, a piece of technology that monitored Twitter, Facebook and other social media platforms, was used by the Boston Police Department to monitor Black and Muslim Americans. It collected vast amounts of information from political beliefs to religious activities and personal conversations unrelated to criminal activity. It tagged anyone who spoke out against law enforcement or used words like “Ferguson” or “police brutality.”
 
