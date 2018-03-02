@@ -6,7 +6,7 @@ featured-image: '/static/images/featured/2018-02-14-love-letters-graceleeboggs.j
 author: "Laura Li"
 blurb: " Dear Grace Lee Boggs, Now more than ever, we need your vision of radical love, one that pushes us to support and affirm ourselves by breaking free of the old categories that have always defined us by what oppresses us. "
 tweet: ".%4018MillionRising.org's remembers our ancestors, inspirations, and movement leaders with a letter to .%40GraceLeeBoggs %23LoveLetterstoMovementLeaders"
-facebook: "To whom would you write your %23LoveLetterstoMovementLeaders? We wrote ours to the amazing Grace Lee Boggs"
+facebook: "To whom would you write your Love Letters to Movement Leaders? We wrote ours to the amazing Grace Lee Boggs"
 permalink: /2018/02/loveletters/graceleeboggs.html
 ---
 Dear Grace Lee Boggs,
