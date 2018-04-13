@@ -11,7 +11,9 @@ permalink: /2018/04/history-not-for-sale-letter.html
 April 13, 2018
 
 Mark Hoff
+
 Vice President and Associate General Counsel
+
 Amazon.com
 
 Dear Mark Hoff,
@@ -27,9 +29,13 @@ We urge Amazon to take these down these listings immediately. You have a golden 
 Sincerely,
 
 Cayden Mak
+
 Executive Director
+
 18MillionRising.org
 
 David Inoue
+
 Executive Director
+
 Japanese American Citizens League
