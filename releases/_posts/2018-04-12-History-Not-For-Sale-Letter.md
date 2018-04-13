@@ -29,9 +29,7 @@ We urge Amazon to take these down these listings immediately. You have a golden 
 Sincerely,
 
 Cayden Mak
-
 Executive Director of 18MillionRising.org
 
 David Inoue
-
 Executive Director of the Japanese American Citizens League
