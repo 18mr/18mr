@@ -2,6 +2,7 @@
 layout: release
 title: "18MillionRising.org and JACL tell Amazon that our history is not for sale"
 category: releases
+featured-image: '/static/images/featured/2018.04.12-History-not-for-sale-letter.png'
 tweet: "Join @18MillionRising @JACL_National in telling Amazon and other retailers that they can't profit on the pain of Japanese American incarceration"
 facebook: "Photos and items of Japanese American incarceration should not be sold as home decor. Don't profit from our pain."
 blurb: "18MillionRising.org and JACL ask Amazon to remove photos and items of Japanese American incarceration marketed as timeless images for home decor"
