@@ -11,8 +11,8 @@ permalink: /2018/04/history-not-for-sale-letter.html
 April 13, 2018
 
 Mark Hoff
-Vice President and Associate General Counsel
-Amazon.com
+
+Vice President and Associate General Counsel of Amazon.com
 
 Dear Mark Hoff,
 
