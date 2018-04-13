@@ -30,12 +30,8 @@ Sincerely,
 
 Cayden Mak
 
-Executive Director
-
-18MillionRising.org
+Executive Director of 18MillionRising.org
 
 David Inoue
 
-Executive Director
-
-Japanese American Citizens League
+Executive Director of the Japanese American Citizens League
