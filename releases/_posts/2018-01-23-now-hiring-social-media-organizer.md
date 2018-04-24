@@ -8,7 +8,7 @@ blurb: "We're growing our team: now hiring a social media organizer to superchar
 permalink: /2018/01/now-hiring-social-media-organizer.html
 ---
 
-Could you be the next great addition to the 18MR team?
+*Applications are now closed! Thanks for your interest in working with 18MR.*
 
 ## About 18MR.org
 18MillionRising.org (18MR.org) brings many disparate Asian American communities together online and offline to reimagine Asian American identity with nuance, specificity, and power. We are using this Asian American identity as the foundation to build a more just and creative world where our experiences are affirmed, our leadership is valued, and all of us have the opportunity to thrive.
