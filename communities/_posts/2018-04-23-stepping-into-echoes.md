@@ -3,14 +3,14 @@ layout: post
 title: "Stepping into Echoes of the Past"
 category: communities
 tags: featured
-featured-image: "/static/images/featured/default.png"
+featured-image: "/static/images/featured/2018-04-23-stepping-into-echoes.jpg"
 author: "Taz Ahmed"
 blurb: "After the Muslim Ban was released, people kept talking about how we won’t let history repeat itself. It’s hard to believe it when this part of American history has been easily buried."
 tweet: "How can we prevent history from repeating itself if we erase its traces%3F %40tazzystar on the prehistory and future of the Muslim Ban %23NoMuslimBanEver"
 facebook: "How can we prevent history from repeating itself if we constantly erase its traces?"
 permalink: /2018/04/stepping-into-echoes.html
 ---
-As we walked through the dusty red dirt surrounded by tall dry grass with the sun bearing down on us, I was astounded and how quickly the environment had changed. Just moments before, we were surrounded by swaying palm trees and were spritzed by delicious salty waves crashing on volcanic rocks. We were in Hawaii, after all. It had just rained, a short tropical summer storm before we had left Diamondhead Point, common in most parts of Oahu. But after an hour drive inland, suddenly we were hiking down this ravine with the most drastic desert microclimate I had ever seen – a place that the internees referred to it as jigoku dani: Hell Valley. It was August, and it looked like rain hadn’t touched this part of the island in months. I wondered how on this tropical paradise island were they able to find such a terrible location to detain Americans. And I wondered, as I was stepping into the echoes of Japanese American past, if I was also stepping into the echoes of my Muslim American future.
+As we walked through the dusty red dirt surrounded by tall dry grass with the sun bearing down on us, I was astounded and how quickly the environment had changed. Just moments before, we were surrounded by swaying palm trees and were spritzed by delicious salty waves crashing on volcanic rocks. We were in Hawaii, after all. It had just rained, a short tropical summer storm before we had left Diamondhead Point, common in most parts of Oahu. But after an hour drive inland, suddenly we were hiking down this ravine with the most drastic desert microclimate I had ever seen – a place that the internees referred to it as _jigoku dani_: Hell Valley. It was August, and it looked like rain hadn’t touched this part of the island in months. I wondered how on this tropical paradise island were they able to find such a terrible location to detain Americans. And I wondered, as I was stepping into the echoes of Japanese American past, if I was also stepping into the echoes of my Muslim American future.
  
 Unlike the Pearl Harbor Memorial with its epic concrete tribute, there wasn’t much memorialized at Honouluili. It is currently inaccessible to the public, and it just was because of my art residency at the Shangri-La Center for Islamic Arts and Cultures that we are able to gain access to this historical site. After the camp closed in the 1940s a local rancher had purchased the property and grew the adjacent sugar cane fields. The camp had been forgotten until local activists found it in 2002. The site was designated a National Monument by Presidential Proclamation in 2015. 
 
