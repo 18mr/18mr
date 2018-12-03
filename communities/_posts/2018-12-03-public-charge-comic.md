@@ -58,5 +58,5 @@ Asian American and Pacific Islanders, like other low-income immigrant families, 
 <i>[Glenn Urieta](https://glennurieta.com/) is a Fil-Am illustrator & cartoonist. Family man. Adopter of dogs. Eater of pasta. Likely mumble-singing Hamilton songs right now as he draws. Find him at [@glennurieta](https://twitter.com/glennurieta).</i> 
 
 
-[^1]: https://www.labor.ucla.edu/wp-content/uploads/2018/11/NAILFILES_FINAL.pdf
+[^1]: [https://www.labor.ucla.edu/wp-content/uploads/2018/11/NAILFILES_FINAL.pdf](https://www.labor.ucla.edu/wp-content/uploads/2018/11/NAILFILES_FINAL.pdf)
 
