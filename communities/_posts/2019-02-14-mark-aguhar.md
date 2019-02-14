@@ -19,7 +19,7 @@ Today is Valentine’s Day and I’m dedicating this love letter to you -- and a
 
 Your artwork and blog were heavily inspired by your identity as a fat, Filipinx, trans femme. You posted affirming self-portraits, wrote about survival and mental health, raged against white male privilege, and documented both humorous and mundane moments in your life. 
 
-[![WHITEGIRLPROBLEMS](/static/images/Aguhar_p1.jpg)](http://markaguhar.tumblr.com/post/4331579384/whitegirlproblems-notathing)
+<img src="/static/images/Aguhar_p1.jpg">
 
  <center><sub><sup><i>ABOVE: #WHITEGIRLPROBLEMS (#NOTATHING),Mark Aguhar, 2012)</i></sup></sub></center>
 
@@ -40,7 +40,7 @@ In a blog post dated November 2011, you said:
 
 May we all carry your torch by lifting up and celebrating sisters like you, Mark. 
 
-![SelfPortrait](/static/images/Aguhar_p2.png)
+<img src="/static/images/Aguhar_p2.png">
 
 
  <center><sub><sup><i>ABOVE: Mark Aguhar, 2012 </i></sup></sub></center>
