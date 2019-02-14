@@ -10,6 +10,7 @@ tweet: "%4018MillionRising remembers our movement leaders on Valentine's Day wit
 facebook: "On this Valentine's Day, we're remembering Mark Aguhar, a fierce Filipinx American artist who explored queer and trans identity through her art."
 permalink: /2018/11/loveletters/mark-aguhar.html
 ---
+<center><sub><sup><i>[Content Warning: Mental Health and Suicide]</i></sup></sub></center>
 
 Dear Mark Aguhar,
 
