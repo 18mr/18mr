@@ -42,7 +42,6 @@ May we all carry your torch by lifting up and celebrating sisters like you, Mark
 
 <img src="/static/images/Aguhar_p2.png">
 
-
  <center><sub><sup><i>ABOVE: Mark Aguhar, 2012 </i></sup></sub></center>
 
 You can explore more of Mark Aguhar’s work in [Call Out Queen Zine (2012)](https://issuu.com/poczineproject/docs/calloutqueen-zine) by Juana Peralta and Roy Pérez.
