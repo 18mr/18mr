@@ -2,11 +2,14 @@
 layout: release
 title: "We're Hiring a Development Associate!"
 category: releases
+featured-image: '/static/images/hiring.jpg'
 tweet: "Check out this job as a development associate with @18millionrising: "
 facebook: "We're growing our team: now hiring a development associate (based in Detroit) to support Asian American organizing, as well as awesome art, media, and tech projects!"
 blurb: "We're growing our team: now hiring a development associate (based in Detroit)to support Asian American organizing, as well as awesome art, media, and tech projects!"
 permalink: /2019/02/now-hiring-development.html
 ---
+
+<img src="/static/images/hiring.jpg" title="hiring" alt="hiring">
 
 Could you be the next great addition to the 18MR team?
 
