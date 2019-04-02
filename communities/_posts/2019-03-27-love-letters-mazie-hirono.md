@@ -25,7 +25,7 @@ In 1994, Ben Cayetano, the Democratic candidate for Hawai’i’s Governor, had 
 
 I hope he ate his words because you won more votes during that election than Cayetano did. As an Asian American woman, you knew that if you waited around for somebody to pick you, you would never be picked. This is a reality many of us grew up with, but are now unlearning because of trailblazers like you. 
 
-When you were elected to the U.S. Senate in 2012, <b>you became the first Asian American and first immigrant Senator. You’ve been raising hell ever since.</b> 
+When you were elected to the U.S. Senate in 2012, <b>you became the first Asian American woman Senator. You’ve been raising hell ever since.</b> 
 
 <img src="/static/images/featured/mazie_body.png" title="portrait" alt="mazie-hirono">
 
