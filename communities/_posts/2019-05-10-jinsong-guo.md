@@ -5,6 +5,7 @@ category: communities
 tags: featured
 featured-image: '/static/images/featured/JGUO_LL.png'
 author: "Tiffany Liang"
+blurb: "Thank you Jingsong Guo and all the unsung heroes in the Asian American mental health awareness movement”
 tweet: "Jinsong Guo is quietly revolutionizing mental health access for Asian Americans. After reading this, you'll want to write a love letter to her, too"
 facebook: "Jinsong Guo is quietly revolutionizing mental health access for Asian Americans. After reading this, you'll want to write a love letter to her, too"
 permalink: /2019/05/loveletters/jinsongguo
