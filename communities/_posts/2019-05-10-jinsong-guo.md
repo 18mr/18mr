@@ -5,7 +5,7 @@ category: communities
 tags: featured
 featured-image: '/static/images/featured/JGUO_LL.png'
 author: "Tiffany Liang"
-blurb: "Thank you Jingsong Guo and all the unsung heroes in the Asian American mental health awareness movement”
+blurb: "Thank you Jingsong Guo and all the unsung heroes in the Asian American mental health awareness movement"
 tweet: "Jinsong Guo is quietly revolutionizing mental health access for Asian Americans. After reading this, you'll want to write a love letter to her, too"
 facebook: ""
 permalink: /2019/05/loveletters/jinsongguo
@@ -26,7 +26,7 @@ You inspired me to speak more about my personal hardships and also look beyond m
 
 Your actions make it clear that your passion steps beyond passive observation. It is extremely admirable to watch you put yourself back into graduate school to formally educate yourself on mental health. It reminds me that mental growth happens in all stages of life and gives me hope that it is never too late to educate Asian American parents about creating open dialogues regarding mental health issues. 
 
-> ##You give me hope that one day, mental health will be destigmatized within the community. 
+> ## You give me hope that one day, mental health will be destigmatized within the community. 
 
 Most of all, I have learned the power of vulnerability and the strength of solidarity it creates.
 
