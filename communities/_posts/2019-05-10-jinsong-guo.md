@@ -5,9 +5,9 @@ category: communities
 tags: featured
 featured-image: '/static/images/featured/JGUO_LL.png'
 author: "Tiffany Liang"
-blurb: "Thank you Jingsong Guo and all the unsung heroes in the Asian American mental health awareness movement"
+blurb: "Thank you Jinsong Guo and all the unsung heroes in the Asian American mental health awareness movement"
 tweet: "Jinsong Guo is quietly revolutionizing mental health access for Asian Americans. After reading this, you'll want to write a love letter to her, too"
-facebook: ""
+facebook: "Jinsong Guo is quietly revolutionizing mental health access for Asian Americans. After reading this, you'll want to write a love letter to her, too"
 permalink: /2019/05/loveletters/jinsongguo.html
 ---
 
@@ -16,7 +16,7 @@ Dear Jinsong Guo,
 You're an unsung hero in the Asian American mental health awareness movement. Your work is proof that the actions of one person can make an impact. This love letter is to you, your efforts, and the daily acts of kindness you perform for others.
 
 Thank you for being a fierce advocate in your town of Palo Alto, California for Asian Americans with mental health issues. Your experience with raising two first generation Chinese-Americans in a community filled with mental health issues has prepared you for your new advocacy role. 
-New York.
+
 
 Palo Alto is a community with a history of suicide clusters, with most of the suicide victims being Asian-American. As someone who is working to address the problem, rather than ignore it, you send a message to families that they are not alone. Addressing the problem and encouraging conversation makes it okay to “not be okay,” and most of all create citizenry amongst one another.
 
