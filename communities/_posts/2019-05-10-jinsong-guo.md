@@ -17,7 +17,6 @@ You're an unsung hero in the Asian American mental health awareness movement. Yo
 
 Thank you for being a fierce advocate in your town of Palo Alto, California for Asian Americans with mental health issues. Your experience with raising two first generation Chinese-Americans in a community filled with mental health issues has prepared you for your new advocacy role. 
 
-
 Palo Alto is a community with a history of suicide clusters, with most of the suicide victims being Asian-American. As someone who is working to address the problem, rather than ignore it, you send a message to families that they are not alone. Addressing the problem and encouraging conversation makes it okay to “not be okay,” and most of all create citizenry amongst one another.
 
 In 2016, you didn’t have a choice in learning how to navigate the American mental health system for your youngest daughter. This was perhaps the spark that ignited your passion for Asian American mental health advocacy. Through engaging in open dialogue about the barriers and harsh truths of mental health support, you inspired me to take action in destigmatizing mental health in my everyday conversations. 
