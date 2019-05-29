@@ -36,7 +36,7 @@ Unfortunately, I do imagine this, all the time. As a Japanese-Lebanese-Syrian-Am
 
 
  <img src="/static/images/featured/Mia_Bus.jpg" title="portrait" alt="Mia on Bus">
- <center><sub><sup><i>ABOVE: Mia Yamamoto addressing the Vigilant Love Bust by Daren Mookoe </i></sup></sub></center> 
+ <center><sub><sup><i>ABOVE: Mia Yamamoto addressing the Vigilant Love Bus by Daren Mookoe </i></sup></sub></center> 
 
 For all these reasons, I want to thank you for continuing to show up, Mia. <b>Thank you for getting up at 5:00 am that morning to board that bus in Little Tokyo with me. Thank you for speaking to us and making sure that the next generation of Asian American activists knows our history. Thank you for letting us know how much work is still left to do. </b>
 
