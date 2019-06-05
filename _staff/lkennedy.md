@@ -1,6 +1,6 @@
 ---
 name: "Liz Kennedy"
-photo: "/static/images/staff/liz.jpg"
+photo: "/static/images/staff/Liz.jpg"
 title: "Development Associate"
 weight: 6
 ---
