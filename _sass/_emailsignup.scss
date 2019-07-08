@@ -61,6 +61,10 @@
 		
 		.international_link-wrap {
 			display: none !important;
+			
+			.international_link {
+				display: none;
+			}
 		}
 	}
 	
