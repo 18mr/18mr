@@ -5,9 +5,10 @@ permalink: /about/
 ---
 # About 18MR.org
 
-18MillionRising.org (18MR.org) brings many disparate Asian American communities together online and offline to reimagine Asian American identity with nuance, specificity, and power. We are using this Asian American identity as the foundation to build a more just and creative world where our experiences are affirmed, our leadership is valued, and all of us have the opportunity to thrive.
+18MillionRising.org (18MR.org) brings Asian American communities together online and offline to reimagine Asian American identity with nuance, specificity, and power. We are using this Asian American identity as the foundation to build a more just and creative world where our experiences are affirmed, our leadership is valued, and all of us have the opportunity to thrive.
 
-Using technology and popular culture, we develop new ways for Asian Americans and our allies to collaborate, create new ways of being, and transform the world around us.
+Using technology and popular culture, we develop new ways for Asian Americans and our allies to collaborate, create new ways of being, and transform the world around us. We utilize digital-first advocacy tactics to elevate the voices of and mobilize our over 120,000 members to take action on issues that matter to them. We create meeting places online where young Asian Americans can deliberate together about what it means to be Asian American in the 21st century.
+
 
 As a member of the Allied Media Projects Sponsored Projects Network, we also hold the [AMP Network Principles](https://www.alliedmedia.org/about/network-principles) as central to our work.
 
@@ -15,7 +16,7 @@ __Operating Principles__
 
 _Who We Are, Where We’re From_
 
-- __We do not see the Asian American identity as monolithic.__ As we build together, we highlight and celebrate the differences in our cultures, languages, and values while uplifting the principles that bring us together in the first place.
+- __We do not see the Asian American identity as monolithic.__ We come from South, Southeast, and East Asian diasporas; we are multiracial; we come from many waves of immigration. As we build together, we highlight and celebrate the differences in our cultures, languages, and values while uplifting the principles that bring us together in the first place.
 - __We understand that the intersections of multiple identities make many in our communities more vulnerable while making our solutions more sustainable:__ not only are we people of color, we are also transgender, women, Muslims, queers, working class or poor, disabled, and/or undocumented, just to name a few. In order to build a more just world, we must understand the ways in which these identities create barriers and opportunities in our organizing.
 
 _Co-Conspirators Instead of Allies_
@@ -30,9 +31,9 @@ _Learning, Innovating, Creating_
 - __We draw strength from the power of imagination, creativity, and radical play as superpowers that are a vital part of the human experience.__ We believe these superpowers are the keys to unlocking a just, sustainable future.
 - __We make technology work for us, but we do not work for technology.__ Although the internet, social media, and other tools in our toolbox are incredibly powerful and can bring people closer together, we don’t rely on them to do our work. We engage critically with technology and believe that while we cannot turn our backs on it, we must also avoid fetishizing it and centering it – rather than people and communities – in our work.
 
-_Changing Ourselves, Changing Society_
+_Changing Our Movements, Changing Society_
 
-- __We work to not merely cater to the center, but to move the center.__ Our communities have historically been used as a racial wedge to drive people apart and perpetuate the subjugation of other people of color. We reject this model minority status and recognize that to move others in our communities toward this understanding, we need to do the hard work of revealing difficult truths. This requires a deep commitment to teaching; leading by example; refusing the path of least resistance; and offering concrete solutions to inspire systemic change
+- __We work to not merely cater to the center, but to move the center.__ White supremacy has weaponized our communities as a racial wedge to drive people apart and perpetuate the subjugation of other people of color. We reject this model minority status and recognize that to move others in our communities toward this understanding, we need to do the hard work of revealing difficult truths. This requires a deep commitment to teaching; leading by example; refusing the path of least resistance; and offering concrete solutions to inspire systemic change within our communities as well as outside them in the broader society.
 
 <h1 id="staff">Our Staff</h1>
 

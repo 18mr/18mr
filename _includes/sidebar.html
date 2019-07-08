@@ -1,13 +1,33 @@
 <div id="social-sidebar">
-	<div class="featured-campaign">
 		{% for campaign in site.campaigns %}
 		{% if campaign.current == true %}
+
+<!--
+<h1 ><a href="https://bit.ly/18MRstickers"> JOIN OUR NEWSLETTER! </h1></a>
+
+<h1 ><a href="https://bit.ly/18MRstickers"> GET YOUR 18MR STICKER PACK! </h1></a>
+			-->
+
+<!--
+ voters edge widget
+		<iframe title='Enter your address for personalized voting information' src='https://votersedge.org/en/ca/address-widget' frameBorder='0' scrolling='no' style='width:100%;height:203px;'></iframe> 
+	-->
+
+	<a href="https://bit.ly/18MRstickers"><img src="/static/images/18MRSTICKERPACK.gif"></a>
+<br>
+<br>
+<br>
 			<h1 class="campaign-title">{{ campaign.title }}</h1>
 			<a href="{{ campaign.campaign-link }}"><img class="campaign-thumbnail" src="{{ campaign.thumbnail }}" alt="{{ campaign.alt }}"></a>
 			<p class="campaign-blurb">{{ campaign.blurb }}</p>
 			<h3 class="actionbutton">
 				<a class="post-link" href="{{ campaign.campaign-link }}?source=18mr-blog">TAKE ACTION</a>
 			</h3>
+
+
+
+		
+
 		{% else if %}
 		{% endif %}
 		{% endfor %}
