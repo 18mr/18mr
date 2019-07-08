@@ -51,11 +51,30 @@ _Changing Our Movements, Changing Society_
 {% endfor %}
 </ul>
 
-# Community Guidelines
+# [Community Guidelines](#guidelines)
 
-Please remember that comments on 18MR.org are public and our audience includes everyone from ages 13 to 93. We ask that you curb crude language on our site and we reserve the right moderate comments that attack particular individuals or groups; are not in the spirit of civil discourse; are not relevant to the subject matter; or violate our privacy policy. We tend to be generous, but we simply ask that you veer away from attacking people towards and towards interrogating their ideas.
+The 18MR online community is built by all of us as we participate in it -- not just staff, but also members, co-conspirators, and collaborators. By participating in the 18MR community online, you agree to the following expectations, rights, and responsibilities:
 
-Discourse over dissing, as a rule. We're here to build community, and we hope you are, too.
+- __We use our shared online spaces to build connection, community, and collaboration in service of movements for collective liberation.__
+- __We use our online spaces to engage in good-faith dialogue about ideas and approaches to building a just world.__ We think disagreement can yield learning. Our community is interested in productive dialogue, where good-faith questions are welcome. And your thoughtful insights in response are invited as well.
+- __We are all here to learn.__ That includes our team. None of us are perfect and we’re all on our own journeys, but that’s part of why we strive to build and maintain a healthy community -- we can only learn in relationship with one another.
+- __We do not welcome speech that is likely to harm other community members, regardless of intent.__ Even if you didn’t intend for your comment to be harmful, it might be. Our team takes pains to ensure that harmful language, such as racial/ethnic slurs, transphobic jokes, or body shaming, is kept out of our comments. This is to ensure that people feel welcome, regardless of their identity.
+- __We do not tolerate harassment and other harmful behavior.__ This includes spamming, trolling, harassment, stalking (including combing through past threads to pull out comments a person has made in the distant past, on unrelated threads), doxing, or other practices that target an individual and potentially endanger their mental or physical wellbeing.
+
+_Moderation Practices and Norms_
+
+Generally speaking we are liberal about our moderation practices. We believe in allowing individuals to learn from conversation, and that those conversations often enrich the community by allowing for deliberation and dialogue with others who are unlike ourselves.
+
+Comments and posts that violate our community agreements are subject to removal. Accounts and individuals who repeatedly violate them, or clearly have bad faith/harmful motives may be blocked, banned, or reported to the social media platform.
+
+## [Community Guidelines for Offline Gatherings](#offline)
+
+By RSVPing, attending, and participating in an 18MR event, you agree to the following expectations, rights, and responsibilities:
+
+- __We engage with each other in good faith, with the intention to build, understand, and connect.__ We seek to be supportive, kind, and thoughtful about how we show up in the space, and our impact on others. We communicate clearly and check in with each other when things get challenging.
+- __We work together to pursue the goals of the gathering -- whether it’s a happy hour or a conference workshop, we’re all here for similar reasons.__ We establish and honor ground rules for facilitated events together.
+- __We seek positive, enthusiastic consent at multiple levels.__ We all agreed to be here, but not everyone has the same expectations for continuing the conversation. Whether it’s exchanging phone numbers or giving a supportive hug, we respect one another’s boundaries and needs in our relationships.
+- __We ask for consent to photograph or document your participation.__ You can also contact 18MR at any time in the future to have your likeness removed from our website or social media accounts.
 
 <h1 id="contact">Contact Us</h1>
 
