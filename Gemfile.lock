@@ -125,7 +125,7 @@ GEM
     octokit (4.7.0)
       sawyer (~> 0.8.0, >= 0.5.3)
     public_suffix (1.5.3)
-    rack (2.0.3)
+    rack (2.0.8)
     rack-test (0.6.3)
       rack (>= 1.0)
     rails-dom-testing (2.0.3)
