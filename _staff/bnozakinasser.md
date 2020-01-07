@@ -1,6 +1,6 @@
 ---
 name: "Bianca Nozaki-Nasser"
-photo: "/static/images/staff/bianca.jpg"
+photo: "/static/images/staff/bianca_1.png"
 title: "Product Strategist"
 weight: 3
 ---

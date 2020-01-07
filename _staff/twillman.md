@@ -1,6 +1,6 @@
 ---
 name: "Turner Willman"
-photo: "/static/images/staff/turner.jpg"
+photo: "/static/images/staff/Turner_1.jpg"
 title: "Social Media Organizer"
 weight: 5
 ---
