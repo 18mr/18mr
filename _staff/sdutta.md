@@ -1,6 +1,6 @@
 ---
 name: "Sumi Dutta"
-photo: "/static/images/staff/sumi.jpg"
+photo: "/static/images/staff/Sumi_1.jpg"
 title: "Kairos Fellow"
 weight: 7
 ---

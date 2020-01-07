@@ -1,6 +1,6 @@
 ---
 name: "Cayden Mak"
-photo: "/static/images/staff/cayden.jpg"
+photo: "/static/images/staff/Cayden_1.jpg"
 title: "Executive Director"
 weight: 1
 ---

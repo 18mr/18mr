@@ -1,6 +1,6 @@
 ---
 name: "Tanzila 'Taz' Ahmed"
-photo: "/static/images/staff/taz.jpg"
+photo: "/static/images/staff/Taz_1.jpg"
 title: "Campaign Strategist"
 weight: 2
 ---
