@@ -1,11 +1,11 @@
 ---
 layout: page
 title: About
-permalink: about
+permalink: /about/
 ---
-# About 18MR.org
+# About 18MR
 
-18MillionRising.org (18MR.org) brings Asian American communities together online and offline to reimagine Asian American identity with nuance, specificity, and power. We are using this Asian American identity as the foundation to build a more just and creative world where our experiences are affirmed, our leadership is valued, and all of us have the opportunity to thrive.
+18 Million Rising (18MR) brings Asian American communities together online and offline to reimagine Asian American identity with nuance, specificity, and power. We are using this Asian American identity as the foundation to build a more just and creative world where our experiences are affirmed, our leadership is valued, and all of us have the opportunity to thrive.
 
 Using technology and popular culture, we develop new ways for Asian Americans and our allies to collaborate, create new ways of being, and transform the world around us. We utilize digital-first advocacy tactics to elevate the voices of and mobilize our over 120,000 members to take action on issues that matter to them. We create meeting places online where young Asian Americans can deliberate together about what it means to be Asian American in the 21st century.
 
