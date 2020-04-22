@@ -2,6 +2,7 @@
 layout: post
 title: "Unmasking Yellow Peril"
 category: communities
+tags: featured
 featured-image: '/static/images/featured/unmasking_an.jpg'
 author: "Turner Willman & Jason Chang" 
 blurb: Unmasking Yellow Peril seeks to ground ourselves in the long history of Yellow Peril, uncover its many forms, and resist it in the time of COVID-19. 
