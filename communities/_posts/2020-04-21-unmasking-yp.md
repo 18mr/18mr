@@ -86,6 +86,10 @@ Anti-Asian pathogen racism has shaped immigration policing throughout history. A
 
 Yellow Peril is a gruesome inheritance whose impacts reach across communities of color. The Chinese Exclusion Act initiated [waves of restrictive immigration policies all the way to Trump’s Muslim Ban.](https://immigrationhistory.org/timeline/) But, our resistance to Yellow Peril can benefit all, such as the 1898 Supreme Court case of Wong Kim Ark, whose ruling created “birthright citizenship” in opposition to a nativist agenda that sought to exclude people of color. 
 
-[DOWNLOAD AND PRINT A FREE ZINE](https://gum.co/18MRUYP)  
+<h1><a href="https://gum.co/18MRUYP">DOWNLOAD AND PRINT YOUR FREE ZINE</a><h1> 
+
+<a href="https://gum.co/18MRUYP"><center><img src="/static/images/featured/YP_product1.jpg" hspace="" style="width: 100%; height: 100%"></center></a>
+
+
 
 
