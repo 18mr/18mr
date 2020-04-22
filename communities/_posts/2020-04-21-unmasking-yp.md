@@ -11,17 +11,19 @@ facebook: “Unmasking Yellow Peril seeks to ground ourselves in the long histor
 permalink: /2020/04/unmasking_yp.html
 ---
 
-<b>Not only do Asian Americans worry about surviving the virus, we also fear for our lives.</b> Our loved ones are experiencing skyrocketing levels of unchecked hate and violence -- [over 100 hundred hate crimes a day.](https://thehill.com/changing-america/respect/equality/490373-attacks-on-asian-americans-at-about-100-per-day-due-to) This violence is the latest iteration of Yellow Peril. It is a form of white supremacist settler nationalism that the U.S. pioneered to peddle racial fear and justify endless global war and the exploitation and expulsion of diseased and enemy Asians. 
+<b>Not only do Asian Americans worry about surviving the virus, we also fear for our lives.</b> Our loved ones are experiencing skyrocketing levels of unchecked hate and violence -- [over 100 hundred hate crimes a day.](https://thehill.com/changing-america/respect/equality/490373-attacks-on-asian-americans-at-about-100-per-day-due-to) This violence is the latest iteration of Yellow Peril. It is a form of white supremacist settler nationalism that the U.S. pioneered to peddle racial fear and justify endless global war and the exploitation and expulsion of  what they perceive as diseased and enemy Asians. 
 
 What we are experiencing in 2020 is tied to the violence of the mid-1800s when Chinese immigrants were targeted while risking their lives to lay railroad tracks. As a result of white suspicion and fear, the US passed racial bans on immigration and naturalization in the Chinese Exclusion Act of 1882. This law created a new gold standard in settler states and made Yellow Peril a core element of US national identity.
 
-The onset of the COVID-19 pandemic fit the ready-made story of Yellow Peril in the US. Racist responses to the spread of the disease are consistent with a history of treating Asians as a foreign threat. 
+The onset of the COVID-19 pandemic fit the ready-made story of Yellow Peril in the US. Racist responses to the spread of the disease are consistent with a history of treating Asians as a foreign threat. Part of undoing the power of Yellow Peril is confronting the history of empire, capitalism, and white supremacy and building a vision of peace, justice, and health which celebrates and honors our interdependence. 
 
 <b>[Unmasking Yellow Peril](https://gum.co/18MRUYP) is a collaboration between 18 Million Rising, [the Asian and Asian American Studies Institute at the University of Connecticut,](https://asianamerican.uconn.edu/) and Jason Oliver Chang, Associate Professor of History and Asian American Studies at the University of Connecticut.</b> We seek to ground ourselves in the long history of Yellow Peril, uncover its many forms, and resist it in the time of COVID-19.
 
+<b>Yellow Peril has been here for more than a century, [it’s time to unmask it.]((https://gum.co/18MRUYP)</b>
+
 <h1> The Perpetual Foreigners</h1>
 
-Throughout history, the “perpetual foreigner” stereotype has meant that Asian Americans (and other people of color) have been denied the ability to be unquestionably American. When you’re seen as foreign, you’re seen as disposable and exploitable. It’s written into the labor history of Asian America.
+Throughout history, the “perpetual foreigner” stereotype has meant that Asian Americans (and other people of color) have been denied the ability to be unquestionably American. When you’re seen as foreign, you’re seen as disposable and exploitable. This is not a casual discrimination but a deep seated bias that sustains capitalist exploitation. The proof is written into the labor history of Asian America.
 
 <center><img src="/static/images/featured/unmask_pf2.jpg" hspace="" style="width: 100%; height: 100%"></center>
 
@@ -42,7 +44,7 @@ YOU CAN’T EARN YOUR WAY INTO BELONGING. You belong because you’re here. Desp
 
 <h1> Yellow Peril + Placemaking </h1>
 
-If imagined fear of a foreign threat is step one in the Yellow Peril playbook, then the eradication of the enemy within is step two. Our physical space determines how we survive. Yellow Peril has impacted Asian American settlement and space throughout history and continues to be embedded in placemaking today. 
+The imagined fear of a foreign threat is step one in the Yellow Peril playbook. The next, is often, the eradication of an enemy within. Our physical space determines how we survive. Notions of Yellow Peril have impacted Asian American communities and space throughout history and continues to be embedded in placemaking today.
 
 <center><img src="/static/images/featured/unmask_place1.jpg" hspace="" style="width: 100%; height: 100%"></center>
 
@@ -70,7 +72,7 @@ As Asian Americans, we must not only organize in our own spaces, but [rise in so
 
 <h1> Yellow Peril + Border Imperialism</h1>
 
-Did you know that Chinese migrants were the first “illegal immigrants”? First efforts to police the US-Mexico border were designed to [keep Chinese immigrants out.](https://timeline.com/mexican-border-chinese-wall-62bda038c29a) The Chinese Exclusion Act of 1882 was the result of a national campaign to exclude Chinese people out of racist fears. Chinese immigrants resisted the ban by entering through the Southern border, [forming connections with Mexicans](https://uapress.arizona.edu/book/the-chinese-in-mexico-1882-1940) along the way. The US responded by supplying special agents known as [“Chinese Catchers”](https://books.google.com/books?id=BDqUb8UiCIkC&pg=PA186&lpg=PA186&dq=Chinese+Catchers&source=bl&ots=R4AeHAyOL6&sig=uplDaEhq9eOph4Ri2PERM_OxGoo&hl=en&sa=X&ved=0ahUKEwjQ7pW0u-_SAhVC8GMKHU9aCKkQ6AEIQTAJ#v=onepage&q=Chinese%20Catchers&f=false) to find and deport those without documentation. These Chinese Catchers became the origins of the [US Border Patrol,](https://www.ucpress.edu/book/9780520266414/migra) founded in 1924. 
+Did you know that Chinese migrants were the first “illegal immigrants”? The original efforts to police the US-Mexico border were designed to [keep Chinese immigrants out.](https://timeline.com/mexican-border-chinese-wall-62bda038c29a) The Chinese Exclusion Act of 1882 was the result of a national campaign to exclude Chinese people out of racist fears. Chinese immigrants resisted the ban by entering through the Southern border, [forming connections with Mexicans](https://uapress.arizona.edu/book/the-chinese-in-mexico-1882-1940) along the way. The US responded by supplying special agents known as [“Chinese Catchers”](https://books.google.com/books?id=BDqUb8UiCIkC&pg=PA186&lpg=PA186&dq=Chinese+Catchers&source=bl&ots=R4AeHAyOL6&sig=uplDaEhq9eOph4Ri2PERM_OxGoo&hl=en&sa=X&ved=0ahUKEwjQ7pW0u-_SAhVC8GMKHU9aCKkQ6AEIQTAJ#v=onepage&q=Chinese%20Catchers&f=false) to find and deport those without documentation. These Chinese Catchers became the origins of the [US Border Patrol,](https://www.ucpress.edu/book/9780520266414/migra) founded in 1924. 
 
 <center><img src="/static/images/featured/unmask_bi1.jpg" hspace="" style="width: 100%; height: 100%"></center>
 
@@ -82,9 +84,9 @@ This early 20th century form of Yellow Peril border policing grew into the colos
 
 <center><img src="/static/images/featured/unmask_b3.jpg" hspace="" style="width: 100%; height: 100%"></center>
 
-Anti-Asian pathogen racism has shaped immigration policing throughout history. Asian immigrants entering the US through Angel Island Immigration Station between 1910 and 1940 were often held indefinitely and subject to [quarantine, disinfection, and invasive medical examinations.](https://news.berkeley.edu/2020/02/12/coronavirus-fear-of-asians-rooted-in-long-american-history-of-prejudicial-policies/) This treatment was replicated with Mexican braceros who [were fumigated](http://objectofhistory.org/objects/extendedtour/shorthandledhoe/?order=4) with the dangerous pesticide DDT upon entry to the US. Yellow Peril casts Asians as diseased in order to justify xenophobia and restrictions. In the time of COVID-19, conservatives [point to](https://www.politifact.com/factchecks/2020/feb/28/charlie-kirk/checking-tweet-about-chinese-people-detained-flu-s/) the “weak” border as a health threat, while [ICE deports those infected with the virus.](https://www.nytimes.com/2020/04/18/us/deportations-coronavirus-guatemala.html) 
+Anti-Asian pathogen racism has shaped immigration policing throughout history. Asian immigrants entering the US through Angel Island Immigration Station between 1910 and 1940 were often held indefinitely and subject to [quarantine, disinfection, and invasive medical examinations.](https://news.berkeley.edu/2020/02/12/coronavirus-fear-of-asians-rooted-in-long-american-history-of-prejudicial-policies/) This treatment was replicated with Mexican braceros who [were fumigated](http://objectofhistory.org/objects/extendedtour/shorthandledhoe/?order=4) with the dangerous pesticide DDT upon entry to the US. Yellow Peril casts Asians as diseased in order to justify populist xenophobia, immigration restrictions, and denial of political rights. In the time of COVID-19, conservatives [point to](https://www.politifact.com/factchecks/2020/feb/28/charlie-kirk/checking-tweet-about-chinese-people-detained-flu-s/) the “weak” border as a health threat, while [ICE deports those infected with the virus.](https://www.nytimes.com/2020/04/18/us/deportations-coronavirus-guatemala.html) 
 
-Yellow Peril is a gruesome inheritance whose impacts reach across communities of color. The Chinese Exclusion Act initiated [waves of restrictive immigration policies all the way to Trump’s Muslim Ban.](https://immigrationhistory.org/timeline/) But, our resistance to Yellow Peril can benefit all, such as the 1898 Supreme Court case of Wong Kim Ark, whose ruling created “birthright citizenship” in opposition to a nativist agenda that sought to exclude people of color. 
+Yellow Peril is a gruesome inheritance whose impacts reach across communities of color and through the generations.. The Chinese Exclusion Act initiated [waves of restrictive immigration policies all the way to Trump’s Muslim Ban.](https://immigrationhistory.org/timeline/) But, our resistance to Yellow Peril can benefit all, such as the 1898 Supreme Court case of Wong Kim Ark, whose ruling created “birthright citizenship” in opposition to a nativist agenda that sought to exclude people of color. 
 
 <h1><a href="https://gum.co/18MRUYP">DOWNLOAD AND PRINT YOUR FREE ZINE</a><h1> 
 
