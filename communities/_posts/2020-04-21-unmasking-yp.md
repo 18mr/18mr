@@ -17,7 +17,7 @@ What we are experiencing in 2020 is tied to the violence of the mid-1800s when C
 
 The onset of the COVID-19 pandemic fit the ready-made story of Yellow Peril in the US. Racist responses to the spread of the disease are consistent with a history of treating Asians as a foreign threat. Part of undoing the power of Yellow Peril is confronting the history of empire, capitalism, and white supremacy and building a vision of peace, justice, and health which celebrates and honors our interdependence. 
 
-<a href="https://gum.co/18MRUYP"><center><img src="/static/images/featured/YP_product1.jpg" hspace="" style="width: 100%; height: 100%"></center></a>
+<a href="https://gum.co/18MRUYP"><center><img src="/static/images/featured/zine_blog_product.jpg" hspace="" style="width: 100%; height: 100%"></center></a>
 
 <b>[Unmasking Yellow Peril](https://gum.co/18MRUYP) is a collaboration between 18 Million Rising, [the Asian and Asian American Studies Institute at the University of Connecticut,](https://asianamerican.uconn.edu/) and Jason Oliver Chang, Associate Professor of History and Asian American Studies at the University of Connecticut.</b> We seek to ground ourselves in the long history of Yellow Peril, uncover its many forms, and resist it in the time of COVID-19.
 
