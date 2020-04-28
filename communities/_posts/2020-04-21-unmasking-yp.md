@@ -23,8 +23,6 @@ The onset of the COVID-19 pandemic fit the ready-made story of Yellow Peril in t
 
 <b><a href="https://gum.co/18MRUYP">Yellow Peril has been here for more than a century, it’s time to unmask it.</a></b>
 
-
-
 <h1> The Perpetual Foreigners</h1>
 
 Throughout history, the “perpetual foreigner” stereotype has meant that Asian Americans (and other people of color) have been denied the ability to be unquestionably American. When you’re seen as foreign, you’re seen as disposable and exploitable. This is not a casual discrimination but a deep seated bias that sustains capitalist exploitation. The proof is written into the labor history of Asian America.
@@ -92,9 +90,10 @@ Anti-Asian pathogen racism has shaped immigration policing throughout history. A
 
 Yellow Peril is a gruesome inheritance whose impacts reach across communities of color and through the generations.. The Chinese Exclusion Act initiated [waves of restrictive immigration policies all the way to Trump’s Muslim Ban.](https://immigrationhistory.org/timeline/) But, our resistance to Yellow Peril can benefit all, such as the 1898 Supreme Court case of Wong Kim Ark, whose ruling created “birthright citizenship” in opposition to a nativist agenda that sought to exclude people of color. 
 
-<h1><a href="https://gum.co/18MRUYP">DOWNLOAD AND PRINT YOUR FREE ZINE</a><h1> 
+<script src="https://gumroad.com/js/gumroad-embed.js"></script>
+<div class="gumroad-product-embed" data-gumroad-product-id="18MRUYP"><a href="https://gumroad.com/l/18MRUYP">Loading...</a></div>
 
-<a href="https://gum.co/18MRUYP"><center><img src="/static/images/featured/YP_product1.jpg" hspace="" style="width: 100%; height: 100%"></center></a>
+
 
 
 
