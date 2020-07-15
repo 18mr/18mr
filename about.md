@@ -80,8 +80,6 @@ By RSVPing, attending, and participating in an 18MR event, you agree to the foll
 
 Direct general inquiries, including speaker requests for any of our current staff, can be sent to [info@18millionrising.org](mailto:info@18millionrising.org).
 
-If you have a story or campaign to pitch, send it to us [here](http://www.18millionrising.org/pitch).
-
 If you are having technical difficulties with this site, [report a bug or make a request here](https://github.com/18mr/18mr/issues).
 
 If you are having technical difficulties with a petition, [report a bug or make a request here](https://github.com/18mr/action/issues).
