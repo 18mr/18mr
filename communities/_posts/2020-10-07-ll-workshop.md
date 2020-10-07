@@ -20,14 +20,17 @@ Letter writing is transformative. <b>We believe letter writing breaks the isolat
 
 We were joined by Asian Americans and allies of different generations, ethnicities, and classes across the U.S., Mexico, Bangladesh and even Australia. As first time letter writers to incarcerated people, many attendees expressed appreciation that the workshop offered a way to put abolitionist principles into practice. 
 
+ <center><img src="/static/images/featured/patti_letter.jpg" hspace="10" style="float: left; width: 50%; height: 40%"></center><sub><sup><i>LEFT: Letter from workshop participant to Patti  </i></sup></sub>
+
+
 Emily Suh, our co-facilitator from Survived and Punished shared, “It’s impossible to call yourself a prison abolitionist if you’re not writing folks inside. It’s probably the first thing that folks should start with. Letter writing is so significant because it creates opportunity for mutuality between you and the person on the opposite side of the cage.”
 
 The workshop also underlined the prison-to-deportation pipeline for Southeast Asians. 80% of all deportation orders for Southeast Asian Americans are based on old criminal records that have already been served. “I met more Cambodians in [San Quentin] prison than I met in my entire college life. I think that says something – and not a reflection of the character of my community – but that it’s a system built to incarcerate,” said Nate Tan, our co-facilitator from Asian Prisoner Support Committee. 
 
 
-<img src= '/static/images/featured/ll-blog.png'>
+<a href="https://www.movementloveletters.org/community/apsc-survived"><img src= '/static/images/featured/ll-blog.png'>
 
-Missed the workshop? You can catch up on the <b>event recording and access the transcript.</b>
+Missed the workshop? You can catch up on the <b>[event recording](https://www.movementloveletters.org/community/apsc-survived) and access the [transcript.](https://docs.google.com/document/d/16rJ-Kzh0le72BrS_APqv39kXPPf9YWENiFf9Zu0rNx4/edit)</b>
 
 <b>If you would like to support the abolitionist organizing of our partners, please donate directly to Survived and Punished and Asian Prisoner Support Committee.</b> 
 
@@ -50,5 +53,6 @@ Missed the workshop? You can catch up on the <b>event recording and access the t
 
 Rae S. Harris (W84168)<br>
 P.O. Box 1508 Chowchilla, CA 93610<br>
+
 
 
