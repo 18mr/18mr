@@ -8,9 +8,8 @@ author: ‘Laura Li’
 blurb: “It's impossible to call yourself a prison abolitionist if you are not writing folks inside.”
 tweet: "It's impossible to call yourself a prison abolitionist if you are not writing folks inside."
 facebook: It's impossible to call yourself a prison abolitionist if you are not writing folks inside.
-permalink: 2020/10/workshop_decarceration
+permalink: 2020/10/workshop_decarceration.html
 ---
-
 
 <b>On Sept. 26, 18 Million Rising hosted the first Love Letters to Movement Leaders workshop on abolition and decarceration with over 170 members and allies.</b> This workshop, co-facilitated by our partners Asian Prisoner Support Committee and Survived and Punished, is a part of 18MR’s new multimedia initiative: Love Letters to Movement Leaders.
 
