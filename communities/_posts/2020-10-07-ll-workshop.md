@@ -11,11 +11,11 @@ facebook: It's impossible to call yourself a prison abolitionist if you are not 
 permalink: 2020/10/workshop_decarceration.html
 ---
 
-<b>On Sept. 26, 18 Million Rising hosted the first Love Letters to Movement Leaders workshop on abolition and decarceration with over 170 members and allies.</b> This workshop, co-facilitated by our partners Asian Prisoner Support Committee and Survived and Punished, is a part of 18MR’s new multimedia initiative: Love Letters to Movement Leaders.
+<b>On Sept. 26, 18 Million Rising hosted the first [Love Letters to Movement Leaders workshop on abolition and decarceration](https://www.movementloveletters.org/community/apsc-survived) with over 170 members and allies.</b> This workshop, co-facilitated by our partners Asian Prisoner Support Committee and Survived and Punished, is a part of 18MR’s new multimedia initiative: [Love Letters to Movement Leaders.](https://www.movementloveletters.org/)
 
-Workshop attendees wrote love letters to Patti Waller, a Belizean domestic violence survivor, and Tien Pham, a Vietnamese refugee, handed over to ICE by California Governor Gavin Newsom after they won their release and were granted parole respectively. <b>After decades of incarceration, Patti and Tien are having to fight for their freedom again to stop their deportations by ICE. </b>
+Workshop attendees wrote love letters to Patti Waller, a Belizean domestic violence survivor, and Tien Pham, a Vietnamese refugee, [handed over to ICE by California Governor Gavin Newsom after they won their release and were granted parole respectively.](https://www.advancingjustice-alc.org/news_and_media/breaking-gov-newsom-hands-two-people-a-domestic-violence-survivor-and-vietnamese-refugee-to-ice-risking-their-lives-during-a-pandemic-and-wildfires/) <b>After decades of incarceration, Patti and Tien are having to fight for their freedom again to stop their deportations by ICE. </b>
 
-Letter writing is transformative. <b>We believe letter writing breaks the isolation that prison walls create and affirms that all incarcerated people deserve care, love, and support. If you missed the workshop, you can still write to Patti and Tien by sending them your own letter. </b>
+Letter writing is transformative. <b>We believe letter writing breaks the isolation that prison walls create and affirms that all incarcerated people deserve care, love, and support. [If you missed the workshop, you can still write to Patti and Tien by sending them your own letter.](https://docs.google.com/forms/d/e/1FAIpQLScs86R-eVxXfnPII1bATDxR5MbyJzmbQ7lmMPlhejdn9tNAmA/viewform) </b>
 
 We were joined by Asian Americans and allies of different generations, ethnicities, and classes across the U.S., Mexico, Bangladesh and even Australia. As first time letter writers to incarcerated people, many attendees expressed appreciation that the workshop offered a way to put abolitionist principles into practice. 
 
@@ -31,9 +31,9 @@ The workshop also underlined the prison-to-deportation pipeline for Southeast As
 
 Missed the workshop? You can catch up on the <b>[event recording](https://www.movementloveletters.org/community/apsc-survived) and access the [transcript.](https://docs.google.com/document/d/16rJ-Kzh0le72BrS_APqv39kXPPf9YWENiFf9Zu0rNx4/edit)</b>
 
-<b>If you would like to support the abolitionist organizing of our partners, please donate directly to Survived and Punished and Asian Prisoner Support Committee.</b> 
+<b>If you would like to support the abolitionist organizing of our partners, please donate directly to [Survived and Punished](https://survivedandpunished.org/donate/) and [Asian Prisoner Support Committee.](https://www.givedirect.org/donate/?cid=13982)</b> 
 
-<b>To support future workshops at 18MR, will you chip in $5 to make this work possible?</b>
+<b>[To support future workshops at 18MR, will you chip in $5 to make this work possible?](https://action.18mr.org/donate/)</b>
 
 
 <h1>Resources and Calls to Action: </h1>
