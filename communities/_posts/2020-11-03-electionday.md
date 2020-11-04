@@ -19,7 +19,7 @@ If there are unclear results, evidence of election tampering, or if Trump refuse
 
 <h2>GET YOUR PROTEST POSTER</h2>
 
-We’ve partnered with Design Action Collective, a worker-owned cooperative dedicated to serving social justice movements with graphic design and web development, to bring you [these downloadable protest graphics.](https://drive.google.com/drive/folders/16yb-u8rjO2isEvtwchGI-PJUmLtUr1Mo?usp=sharing) 
+We’ve partnered with [Design Action Collective,](https://designaction.org/) a worker-owned cooperative dedicated to serving social justice movements with graphic design and web development, to bring you [these downloadable protest graphics.](https://drive.google.com/drive/folders/16yb-u8rjO2isEvtwchGI-PJUmLtUr1Mo?usp=sharing) 
 
 - [11x17 Poster for Printing](https://drive.google.com/file/d/1Mq_MGM3vTyn7uhuER2MD-BJcewyY2c0_/view?usp=sharing)<br>
 - [Profile Tile](https://drive.google.com/file/d/1MV8vbN7uOKuI6HwiVILflex2Sffk4h-T/view?usp=sharing<br>)
