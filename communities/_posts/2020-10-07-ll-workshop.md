@@ -4,7 +4,7 @@ title:  A Workshop on Tearing Down Prison Walls
 category: communities
 tags: featured
 featured-image: '/static/images/featured/ll-blog.png'
-author: ‘Laura Li’
+author: Laura Li
 blurb: “It's impossible to call yourself a prison abolitionist if you are not writing folks inside.”
 tweet: "It's impossible to call yourself a prison abolitionist if you are not writing folks inside."
 facebook: It's impossible to call yourself a prison abolitionist if you are not writing folks inside.

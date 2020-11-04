@@ -3,7 +3,7 @@ layout: post
 title: Post Election Day, Whats Next?
 category: communities
 tags: featured
-featured-image: '/static/images/featured/nofascists.jpg'
+featured-image: '/static/images/featured/nocoups.jpg'
 author: ‘18MR Staff’
 blurb: “We’re not going anywhere. Like our ancestors, we’re changing a system that will resist us at all costs.”
 tweet: "We’re not going anywhere. Like our ancestors, we’re changing a system that will resist us at all costs."
@@ -15,7 +15,7 @@ Yesterday was the most important election in a generation. While ballots are cou
 
 If there are unclear results, evidence of election tampering, or if Trump refuses to step down from power despite clearly losing, we are here to offer you opportunities to take meaningful collective action. 
 
-<a href="https://action.18mr.org/counteveryvote/"><img src= '/static/images/featured/nofascists.jpg'>
+<a href="https://action.18mr.org/counteveryvote/"><img src= '/static/images/featured/nocoups.jpg'>
 
 <h2>GET YOUR PROTEST POSTER</h2>
 
