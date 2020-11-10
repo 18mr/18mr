@@ -38,8 +38,8 @@ padding: 15px 20px;
 </style>
 </head>
 <body>
-<center>
-<button class="button button1">DONATE</button>
+<center> <a href="https://action.18mr.org/coin-is-care-2020/#donate">
+<button class="button button1" a href="">DONATE</button></a>
 </center>
 </body>
 </html>
@@ -53,6 +53,7 @@ Like many of you, 2020 has been heartbreaking and heart opening for us. The dual
 But we learned that what we do with our grief is part of who we become. And this year, you showed up with us. <b>With our broken hearts, we organized with more care and courage for our people than ever.</b> We learned that abolition and healing mean saying no to white supremacy and capitalist culture, and saying yes to rest, change, and radical care every single day. We learned that no single individual is coming to save us, but our fierce and loving communities have what it takes to win.
 
 In times of uncertainty, 18MR is certain that we are your radical Asian American home. <b>Now, we’re launching our most ambitious fundraising campaign yet: raising $10,000 by the end of the month. </b>
+
 
 <img src= '/static/images/featured/EOY_2.jpg'>
 
@@ -97,7 +98,7 @@ Your coin funds Asian America’s community power, resilience, and because it’
 Asians For Black Lives is more than a slogan-- it means resourcing Black lives. We brought back our popular [A4BL shirts](https://18millionrising.org/2020/09/a4bl.html) and together we invested over $15K in Black queer and trans-led organizing in the Midwest, California, and deep South.
 
 
-<b>We have the leadership and values to bring us through these uncertain times.</b> Your coin helped us build a vibrant archive of everyday movement leaders and invest in the leadership of healers in Asian America. You’re making sure our radical legacy can never be erased or forgotten. 
+<b>We have the leadership and values to bring us through these uncertain times.</b> Your coin helped us build a [vibrant archive of everyday movement leaders](https://www.movementloveletters.org/) and invest in the leadership of [healers in Asian America.](https://18millionrising.org/2020/04/WIHAA.html) You’re making sure our radical legacy can never be erased or forgotten. 
 
 <b><i>Your coin is care. Will you invest in your radical Asian American home?</i></b>
 
