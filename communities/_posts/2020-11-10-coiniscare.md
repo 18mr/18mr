@@ -4,7 +4,7 @@ permalink: 2020/11/coiniscare.html
 title: Coin Is Care
 category: communities
 tags: featured
-featured-image: '/static/images/featured/'
+featured-image: '/static/images/featured/EOY_1.jpg'
 author: 18MR Staff
 blurb: “Will you invest in your radical Asian American home?”
 ---
