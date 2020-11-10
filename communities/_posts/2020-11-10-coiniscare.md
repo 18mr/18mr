@@ -87,14 +87,14 @@ In times of uncertainty, 18MR is certain that we are your radical Asian American
 
 Your coin funds Asian America’s community power, resilience, and because it’s 2020, it even helps us proactively stop a coup. Here’s a look at what you made possible this year:
 
-<b> We're not going anywhere.</b> When COVID-19 hit and Trump’s sinophobia sparked anti-Asian attacks against our communities, your coin funded critical political education on Yellow Peril, a virtual somatic healing space for Asian Americans, and a way for nearly 10,000 people to demand Twitter and Facebook stop spreading hate and disinformation.
+<b> We're not going anywhere.</b> When COVID-19 hit and Trump’s sinophobia sparked anti-Asian attacks against our communities, your coin funded critical political education on [Yellow Peril,](https://gumroad.com/l/18MRUYP) [a virtual somatic healing space for Asian Americans,](https://www.crowdcast.io/e/antidotes-4-yellow-peril) and a way for nearly [10,000 people](https://action.18mr.org/stop-antiasian-violence/) to demand Twitter and Facebook stop spreading hate and disinformation.
 
-<b>You’re helping us push boundaries as we reimagine Asian American identity.</b>Your coin helped us write an abolitionist letter to our families asking them to stop calling the police on Black folks. That letter -- translated into 13 languages by members like you -- helped over 2,000 Asian American families take a pledge to choose community care over cops.
+<b>You’re helping us push boundaries as we reimagine Asian American identity.</b>Your coin helped us write [an abolitionist letter to our families](https://18millionrising.org/2020/06/callonme.html) asking them to stop calling the police on Black folks. That letter -- translated into 13 languages by members like you -- helped over 2,000 Asian American families take a pledge to choose community care over cops.
 
-<b>We’re working beyond any single election and beyond the state to free our people. </b> You raised enough coin to free three people from a cage, in honor of Yuri and Malcolm’s birthday this year. And when ICE Director Tony Pham came for our freedom fighters, your coin is making sure we get all charges dropped against those who dare to imagine a world without ICE.
+<b>We’re working beyond any single election and beyond the state to free our people. </b> You raised enough coin to free three people from a cage, in honor of [Yuri and Malcolm’s birthday](https://action.18mr.org/birthday-bailout/) this year. And when ICE Director Tony Pham came for [our freedom fighters,](https://action.18mr.org/dropthecharges/) your coin is making sure we get all charges dropped against those who dare to imagine a world without ICE.
 
 <b>We committed through action this year and we’ve been committing.</b>
-Asians For Black Lives is more than a slogan-- it means resourcing Black lives. We brought back our popular A4BL shirts and together we invested over $15K in Black queer and trans-led organizing in the Midwest, California, and deep South.
+Asians For Black Lives is more than a slogan-- it means resourcing Black lives. We brought back our popular [A4BL shirts](https://18millionrising.org/2020/09/a4bl.html) and together we invested over $15K in Black queer and trans-led organizing in the Midwest, California, and deep South.
 
 
 <b>We have the leadership and values to bring us through these uncertain times.</b> Your coin helped us build a vibrant archive of everyday movement leaders and invest in the leadership of healers in Asian America. You’re making sure our radical legacy can never be erased or forgotten. 
