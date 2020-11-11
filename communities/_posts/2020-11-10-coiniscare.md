@@ -38,7 +38,7 @@ padding: 15px 20px;
 </style>
 </head>
 <body>
-<center> <a href="https://action.18mr.org/coin-is-care-2020/#donate">
+<center> <a href="https://action.18mr.org/coin-is-care-2020/">
 <button class="button button1" a href="">DONATE</button></a>
 </center>
 </body>
@@ -53,7 +53,6 @@ Like many of you, 2020 has been heartbreaking and heart opening for us. The dual
 But we learned that what we do with our grief is part of who we become. And this year, you showed up with us. <b>With our broken hearts, we organized with more care and courage for our people than ever.</b> We learned that abolition and healing mean saying no to white supremacy and capitalist culture, and saying yes to rest, change, and radical care every single day. We learned that no single individual is coming to save us, but our fierce and loving communities have what it takes to win.
 
 In times of uncertainty, 18MR is certain that we are your radical Asian American home. <b>Now, we’re launching our most ambitious fundraising campaign yet: raising $10,000 by the end of the month. </b>
-
 
 <img src= '/static/images/featured/EOY_2.jpg'>
 
@@ -79,8 +78,8 @@ In times of uncertainty, 18MR is certain that we are your radical Asian American
 </style>
 </head>
 <body>
-<center>
-<button class="button button1">DONATE</button>
+<center> <a href="https://action.18mr.org/coin-is-care-2020/">
+<button class="button button1" >DONATE</button></a>
 </center>
 </body>
 </html>
@@ -126,8 +125,8 @@ Asians For Black Lives is more than a slogan-- it means resourcing Black lives. 
 </style>
 </head>
 <body>
-<center>
-<button class="button button1">DONATE</button>
+<center> <a href="https://action.18mr.org/coin-is-care-2020/">
+<button class="button button1" a href="">DONATE</button></a>
 </center>
 </body>
 </html>
@@ -153,5 +152,7 @@ Asians For Black Lives is more than a slogan-- it means resourcing Black lives. 
 (and our happy tears of gratitude)
 
 
+
+<script src='https://actionnetwork.org/widgets/v3/fundraising/coin-is-care-will-you-invest-in-your-radical-asian-american-home?format=js&source=widget&css=whitelabel'></script><div id='can-fundraising-area-coin-is-care-will-you-invest-in-your-radical-asian-american-home' style='width: 100%'><!-- this div is the target for our HTML insertion --></div>
 
 
