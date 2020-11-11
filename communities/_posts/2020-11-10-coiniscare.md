@@ -38,7 +38,7 @@ padding: 15px 20px;
 </style>
 </head>
 <body>
-<center> <a href="https://action.18mr.org/coin-is-care-2020/">
+<center> <a href="#DONATE">
 <button class="button button1" a href="">DONATE</button></a>
 </center>
 </body>
@@ -78,7 +78,7 @@ In times of uncertainty, 18MR is certain that we are your radical Asian American
 </style>
 </head>
 <body>
-<center> <a href="https://action.18mr.org/coin-is-care-2020/">
+<center> <a href="#DONATE">
 <button class="button button1" >DONATE</button></a>
 </center>
 </body>
@@ -125,7 +125,7 @@ Asians For Black Lives is more than a slogan-- it means resourcing Black lives. 
 </style>
 </head>
 <body>
-<center> <a href="https://action.18mr.org/coin-is-care-2020/">
+<center> <a href="#DONATE">
 <button class="button button1" a href="">DONATE</button></a>
 </center>
 </body>
@@ -152,6 +152,8 @@ Asians For Black Lives is more than a slogan-- it means resourcing Black lives. 
 (and our happy tears of gratitude)
 
 
+ <h1 id="DONATE"></h1>
+ <br>
 
 <script src='https://actionnetwork.org/widgets/v3/fundraising/coin-is-care-will-you-invest-in-your-radical-asian-american-home?format=js&source=widget&css=whitelabel'></script><div id='can-fundraising-area-coin-is-care-will-you-invest-in-your-radical-asian-american-home' style='width: 100%'><!-- this div is the target for our HTML insertion --></div>
 
