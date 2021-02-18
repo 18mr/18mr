@@ -29,7 +29,7 @@ You might also want to map your “pod,” or the group of people you call on in
 - Try out [Buoy: a community-based crisis response app](https://betterangels.github.io/buoy/) to help you organize your folks.
 - MadQueer/Elliot Fukui put together [a toolkit for pod planning](https://drive.google.com/file/d/18jineTQqwCaTjUYoLiO3I-Z60vSE-rO0/view) with your housemates or family, with a pandemic response frame.
 - Here are [5 ways to help someone in a mental health emergency](https://thebodyisnotanapology.com/magazine/5-ways-to-help-someone-in-a-mental-health-emergency-without-calling-the-police/) without calling the police. 
-- This zine has [12 quick tips for how to respond](https://www.sproutdistro.com/2017/07/28/new-zine-12-things-cops/amp/) to common scenarios that don’t involve calling the cops. 
+- This zine has [12 quick tips for how to respond](https://www.sproutdistro.com/catalog/zines/organizing/12-things-instead-calling-cops) to common scenarios that don’t involve calling the cops. 
 - We’re proud to co-sponsor Hollaback’s [free Bystander Intervention trainings for Asian Americans](https://www.ihollaback.org/bystanderintervention/) to stop racist and xenophobic harassment. 
 
 # How Does Policing Harm Us?
