@@ -6,8 +6,8 @@ tags: featured
 featured-image: '/static/images/featured/combo_pack_an.png'
 author: ‘18 Million Rising Staff’’
 blurb: “We can reimagine community safety without being anti-Black or pro-police”
-tweet: "We’re not going anywhere. Like our ancestors, we’re changing a system that will resist us at all costs."
-facebook: We’re not going anywhere. Like our ancestors, we’re changing a system that will resist us at all costs. 
+tweet: "We can reimagine community safety without being anti-Black or pro-police"
+facebook: We can reimagine community safety without being anti-Black or pro-police
 permalink: /2021/02/zinefundraiser.html
 ---
 
