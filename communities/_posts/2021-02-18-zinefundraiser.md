@@ -29,7 +29,7 @@ This is why we think offering these two zines together is so important. Now is o
 
 You can also download a free digital copy of <b><a href="https://gumroad.com/l/18MRUYP">Unmasking Yellow Peril</a></b> and <b><a href="https://gumroad.com/l/18mrcom">Call On Me, Not the Cops.</a></b> 
 
-If you are Asian American, <b><a href="https://action.18mr.org/dontcallpolice/">will you pledge not to call the police?</b></a>
+If you are Asian American, <b><a href="https://action.18mr.org/dontcallpolice/">will you pledge not to call the police?</a></b>
 
 <h1>About the Beneficiaries</h1>
 
