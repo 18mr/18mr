@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-# About 18MR
+<h1>About 18MR</h1>
 
-<img src="/static/images/about.png" hspace="10" margin-left=50px style="float: right; width: 40%; height: 40%">
+<img src= "/static/images/about.png" hspace="30px" style="float: right; width: 40%; height: 40%">
 
-## 18 Million Rising connects the power of Asian America to digital first organizing.
+<h3>18 MILLION RISING CONNECTS THE POWER OF ASIAN AMERICA TO DIGITAL FIRST ORGANIZING.</h3>
 
 <p> When 18 Million Rising (18MR) launched in 2012, there were approximately 18 million Asian Americans in the United States, representing nearly 6% of the total population and growing faster than any other racial group. Despite that, Asian Americans were, and remain, one of the most politically under–represented communities.<br></p>
 
