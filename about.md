@@ -3,37 +3,18 @@ layout: page
 title: About
 permalink: /about/
 ---
+
 # About 18MR
 
-18 Million Rising (18MR) brings Asian American communities together online and offline to reimagine Asian American identity with nuance, specificity, and power. We are using this Asian American identity as the foundation to build a more just and creative world where our experiences are affirmed, our leadership is valued, and all of us have the opportunity to thrive.
+## 18 Million Rising connects the power of Asian America to digital first organizing.
 
-Using technology and popular culture, we develop new ways for Asian Americans and our allies to collaborate, create new ways of being, and transform the world around us. We utilize digital-first advocacy tactics to elevate the voices of and mobilize our over 120,000 members to take action on issues that matter to them. We create meeting places online where young Asian Americans can deliberate together about what it means to be Asian American in the 21st century.
+<p> When 18 Million Rising (18MR) launched in 2012, there were approximately 18 million Asian Americans in the United States, representing nearly 6% of the total population and growing faster than any other racial group. Despite that, Asian Americans were, and remain, one of the most politically under–represented communities.<br></p>
 
+<p>In 2012 young Asian Americans were yearning for a progressive political home. Our organization was created in response to the enormous untapped opportunity to educate, organize, and mobilize young Asian Americans. In a time when others ignored and erased our political power, we built an online community to foster belonging in a rapidly-changing United States. We believe that we deserve to live in a world where we can thrive. Organizing young Asian Americans is key to building a more just world.<br></p>
 
-As a member of the Allied Media Projects Sponsored Projects Network, we also hold the [AMP Network Principles](https://www.alliedmedia.org/about/network-principles) as central to our work.
+<p>As part of the East, Southeast and South Asian diasporas, our communities have come from many waves of immigration to the U.S. Many of us are physically isolated because our communities have been ripped apart through incarceration, gentrification, deportation, climate change, state violence, and consumerism. Creating community on the Internet has helped young Asian Americans close these gaps. For us the Internet is a place where we come together to create culture, collaborate, and build power. <br></p>
 
-__Operating Principles__
-
-_Who We Are, Where We’re From_
-
-- __We do not see the Asian American identity as monolithic.__ We come from South, Southeast, and East Asian diasporas; we are multiracial; we come from many waves of immigration. As we build together, we highlight and celebrate the differences in our cultures, languages, and values while uplifting the principles that bring us together in the first place.
-- __We understand that the intersections of multiple identities make many in our communities more vulnerable while making our solutions more sustainable:__ not only are we people of color, we are also transgender, women, Muslims, queers, working class or poor, disabled, and/or undocumented, just to name a few. In order to build a more just world, we must understand the ways in which these identities create barriers and opportunities in our organizing.
-
-_Co-Conspirators Instead of Allies_
-
-- __We acknowledge that the United States was founded on the genocide of native people and the labor of Black people forcibly brought to this continent through chattel enslavement.__ These truths underlie many of the large social dynamics we work to combat, and we acknowledge that we must fight our own complicity in anti-Black racism and settler colonialism. As communities of color in solidarity with other communities of color, we are committed to ending white supremacy.
-- __We acknowledge the pervasive role capitalism has played in ripping our communities apart__ through mass incarceration, gentrification, deportation, climate change, and consumerism. We know that capitalism extracts value from all people and resources in its path, and we must adapt to dismantle, supplant, and replace it with sustainable alternatives.
-
-_Learning, Innovating, Creating_
-
-- __We believe that innovation happens every day in our communities as we struggle to survive and thrive,__ and recognize that this innovation represents a genuine effort to grapple with the biggest problems of our times. To honor this innovation, we focus on developing tools and tactics that are culturally resonant and build on the foundations our predecessors have laid.
-- __We value experimental modes of work and learning-by-doing,__ where the lessons of our mistakes are embraced as part of the process of changing ourselves and the world. We do not treat people as disposable, but embrace the challenge of transformation. Self-reflexivity, self-awareness, and humility are core to making this learning possible.
-- __We draw strength from the power of imagination, creativity, and radical play as superpowers that are a vital part of the human experience.__ We believe these superpowers are the keys to unlocking a just, sustainable future.
-- __We make technology work for us, but we do not work for technology.__ Although the internet, social media, and other tools in our toolbox are incredibly powerful and can bring people closer together, we don’t rely on them to do our work. We engage critically with technology and believe that while we cannot turn our backs on it, we must also avoid fetishizing it and centering it – rather than people and communities – in our work.
-
-_Changing Our Movements, Changing Society_
-
-- __We work to not merely cater to the center, but to move the center.__ White supremacy has weaponized our communities as a racial wedge to drive people apart and perpetuate the subjugation of other people of color. We reject this model minority status and recognize that to move others in our communities toward this understanding, we need to do the hard work of revealing difficult truths. This requires a deep commitment to teaching; leading by example; refusing the path of least resistance; and offering concrete solutions to inspire systemic change within our communities as well as outside them in the broader society.
+<p>Since 2012, our online and offline advocacy and cultural campaigns have highlighted the struggles of Asian American communities while celebrating our resilience. Using digital-first organizing, 18MR responds to issues of the current political moment. We mobilize our people to speak up against injustice and take action. From policy change to shifting narratives, 18MR helps define the culture of Asian America today.</p>
 
 <h1 id="staff">Our Staff</h1>
 
@@ -50,6 +31,7 @@ _Changing Our Movements, Changing Society_
 {% endfor %}
 {% endfor %}
 </ul>
+
 
 # [Community Guidelines](#guidelines)
 
