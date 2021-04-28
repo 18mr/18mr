@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-# About 18M
+# About 18MR
 
 <img src="/static/images/about.png" hspace="10" margin-left=50px style="float: right; width: 40%; height: 40%">
 
