@@ -4,7 +4,9 @@ title: About
 permalink: /about/
 ---
 
-# About 18MR
+# About 18M
+
+<img src="/static/images/about.png" hspace="10" margin-left=50px style="float: right; width: 40%; height: 40%">
 
 ## 18 Million Rising connects the power of Asian America to digital first organizing.
 
