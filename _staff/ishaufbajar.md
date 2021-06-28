@@ -1,7 +1,7 @@
 ---
 name: "Irma Shauf-Bajar"
 photo: "/static/images/staff/IRMASTAFF.png"
-title: "Managing Director"
-weight: 2
+title: "Interim Executive Director"
+weight: 1
 ---
-Irma is our managing director.
+Irma is our Interim Executive Director.

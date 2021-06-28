@@ -2,6 +2,6 @@
 name: "Charlene Khoo"
 photo: "/static/images/staff/charlene.png"
 title: "Development Associate"
-weight: 7
+weight: 6
 ---
 Charlene Khoo is our development associate. 
