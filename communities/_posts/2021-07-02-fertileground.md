@@ -13,7 +13,7 @@ permalink: /2021/07/fertileground.html
 
 18MR has produced Fertile Ground, a beautiful illustrated botanical poster and accompanying essay that introduces the concept of abolition, provides analysis  of the current moment in our movement, traces some of the roots of policing, and uplifts examples of resistance. 
 
-When you purchase your Fertile Ground print today a portion of the print proceeds will support the abolitionist organizing work of SEAC Village.
+When you purchase your Fertile Ground print today a portion of the print proceeds will support the Southern, abolitionist organizing work of SEAC Village.
 
 
 <img src= '/static/images/featured/FERTILE GROUND FRONT FINAL 7_6.jpg' alt='poster product photo'>
@@ -29,7 +29,7 @@ Many Asian Americans, including celebrities and elected officials, have also tur
 
 Police have spent years asking for more and more funding in the name of public safety, reforms, and anti-bias and cultural competency training. They say their intention is to make policing kinder, gentler, and more effective. The U.S. already spends approximately [$180 billion every year](https://www.populardemocracy.org/news/publications/freedom-thrive-reimagining-safety-security-our-communities) on policing and incarceration. And yet, for years, our communities have lived with racial violence -- including at [the hands](https://www.nytimes.com/2021/02/25/us/angelo-quinto-death-police-kneel.html) of [police.](https://www.buzzfeednews.com/article/venessawong/christian-hall-police-shooting) That’s because many reforms end up putting more funding into the police in order to implement change, restructure, or conduct training in ways that increase police presence in marginalized communities. We cannot reform this institution to be safer for any of us. 
 
-<i><b>At this moment, our broader Asian American movement is faced with a decision. Will we keep a privileged few among us safe through hate crime laws and increased policing or will we fight for true safety and freedom for all of us?</i> </b>
+<i><b>At this moment, our broader Asian American movement is faced with a decision. Will we keep a privileged few among us safe through hate crime laws and increased policing or will we fight for true safety and freedom for all of us? </b>
 
 Our continued investment in a punishment system that kills, cages, and surveils people in the name of safety dehumanizes all of us. In our hearts, we know we must choose life. We must move toward abolition.  
 
