@@ -11,7 +11,7 @@ permalink: /2021/07/fertileground.html
 ---
 
 
-18MR has produced Fertile Ground, a beautiful illustrated botanical poster and accompanying essay that introduces the concept of abolition, provides analysis  of the current moment in our movement, outlines some roots of policing and examples of resistance. 
+18MR has produced Fertile Ground, a beautiful illustrated botanical poster and accompanying essay that introduces the concept of abolition, provides analysis  of the current moment in our movement, traces some of the roots of policing, and uplifts examples of resistance. 
 
 When you purchase your Fertile Ground print today a portion of the print proceeds will support the abolitionist organizing work of SEAC Village.
 
