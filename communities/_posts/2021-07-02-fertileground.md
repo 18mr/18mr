@@ -11,7 +11,7 @@ permalink: /2021/07/fertileground.html
 ---
 
 
-18MR has produced <a href="https://store.alliedmedia.org/products/fertile-ground">Fertile Ground, a beautiful illustrated botanical poster and accompanying essay </a>that introduces the concept of abolition, provides analysis  of the current moment in our movement, traces some of the roots of policing, and uplifts examples of resistance. 
+18MR has produced <a href="https://store.alliedmedia.org/products/fertile-ground">Fertile Ground, a beautiful illustrated botanical poster and accompanying essay </a>that introduces the concept of abolition, provides analysis on our current moment in Asian America, the limits of #StopAsianHate, and examples of community resistance to police violence.
 
 <a href="https://store.alliedmedia.org/products/fertile-ground">When you purchase your Fertile Ground print today a portion of the print proceeds will support the Southern, abolitionist organizing work of SEAC Village.</a> <a href="http://gum.co/fertileground">You can also access a free digital download here.</a>
 
@@ -100,15 +100,12 @@ We want our family members and our communities to be safe from violence. But we 
 - <b>We dispel</b> [myths about who is most likely to be violent](https://www.nbcnews.com/news/asian-america/viral-images-show-people-color-anti-asian-perpetrators-misses-big-n1270821) or racist against us. Narratives spread on news media and social media are often based on anti-Black racism and ableism instead of real data. 
 - <b>We resist</b> the belief that cops keep us safe and hold people accountable. In recent attacks against Asians, the police did not prevent violence; they showed up to respond afterward. Reporting a crime usually does not lead to an arrest or a conviction. In fact, data shows that [only about 2% of “serious crimes'' end in a conviction.](https://theconversation.com/police-solve-just-2-of-all-major-crimes-143878)
 - <b>We collaborate</b> with our diverse communities to build solidarity, divest from police, and create alternatives through community-based safety resources.
-   1. Leading campaigns that reallocate police funding to other socio-economic needs
-   2. Invest in cop-free 911 responders. APTP - [Oakland Weekend Emergency Service MH First Hotline](https://www.antipoliceterrorproject.org/mh-first-oakland)
-   3. Durham 10 to Transform Campaign - invest 10% of police budget in social needs and cop-free 911 responders
-   4. [Freedom Inc.’s Cop Free Schools Campaign](https://www.facebook.com/watch/live/?v=1210981102570780&ref=watch_permalink) - brings together Black and Asian communities to get cops out of schools 
-   5. [Oakland Chinatown Ambassador Program](https://www.bloomberg.com/news/articles/2021-03-25/oakland-chinatown-safety-efforts-could-be-model-for-asian-american-communities)
-   6. Harm reduction programs
-   7. Self defense and bystander intervention training
-   8. [ALP: Safe Outside the System](https://alp.org/programs/sos)
-
+   1. Supporting movements to reallocate police funding to community needs such as healthcare, housing, and schools, and reduce contact with police. 
+   2. Durham, NC’s [10 to Transform Campaign](https://durhamforall.org/campaigns/10-to-transform/), which would transfer 10% of police officer positions to unarmed, cop-free 911 responders.
+   3. [Freedom Inc.’s Cop Free Schools Campaign](https://www.facebook.com/watch/live/?v=1210981102570780&ref=watch_permalink) which brought together Black and Southeast Asian youth to [end a contract that funded police presence in Madison, WI high schools](https://www.forwardlookout.com/2020/06/cops-are-out-of-schools-whats-next/32784)
+   4. Investing in cop-free 911 and emergency responders, such as Anti Police-Terror Project’s MH First Hotline, a new model of response to mental health crises in Oakland, CA. 
+   5. Developing safer communities through relationship building and a strong public presence, such as [Oakland’s Chinatown Community Ambassadors Program.](https://www.bloomberg.com/news/articles/2021-03-25/oakland-chinatown-safety-efforts-could-be-model-for-asian-american-communities)
+   6. Providing [harm reduction](https://harmreduction.org/about-us/principles-of-harm-reduction/) programs that affirm our agency and wellness over stigma and criminalization.
 - <b>We refuse</b> [false solutions](http://criticalresistance.org/wp-content/uploads/2021/02/CR_abolitioniststeps_antiexpansion_2021_eng.pdf) through policy reforms that end up entrenching police and prisons instead of dismantling them and [causing further harm.](https://abolitionanddisabilityjustice.com/reforms-to-oppose/) 
 - <b>We challenge</b> ourselves to listen and shift when what we think keeps us safe actually harms others. We must practice being in  debate, disagreement, and principled struggle in order to build a new world.
 
