@@ -11,12 +11,12 @@ permalink: /2021/07/fertileground.html
 ---
 
 
-18MR has produced Fertile Ground, a beautiful illustrated botanical poster and accompanying essay that introduces the concept of abolition, provides analysis  of the current moment in our movement, traces some of the roots of policing, and uplifts examples of resistance. 
+18MR has produced <a href="https://store.alliedmedia.org/products/fertile-ground">Fertile Ground, a beautiful illustrated botanical poster and accompanying essay </a>that introduces the concept of abolition, provides analysis  of the current moment in our movement, traces some of the roots of policing, and uplifts examples of resistance. 
 
-When you purchase your Fertile Ground print today a portion of the print proceeds will support the Southern, abolitionist organizing work of SEAC Village.
+<a href="https://store.alliedmedia.org/products/fertile-ground">When you purchase your Fertile Ground print today a portion of the print proceeds will support the Southern, abolitionist organizing work of SEAC Village.</a> <a href="http://gum.co/fertileground">You can also access a free digital download here.</a>
 
 
-<img src= '/static/images/featured/FERTILE GROUND FRONT FINAL 7_6.jpg' alt='poster product photo'>
+<a href="https://store.alliedmedia.org/products/fertile-ground"><img src= '/static/images/featured/FERTILE GROUND FRONT FINAL 7_6.jpg' alt='poster product photo'></a>
 
 ---
 
@@ -33,7 +33,7 @@ Police have spent years asking for more and more funding in the name of public s
 
 Our continued investment in a punishment system that kills, cages, and surveils people in the name of safety dehumanizes all of us. In our hearts, we know we must choose life. We must move toward abolition.  
 
-<img src= '/static/images/featured/fertile ground 11.png'>
+<a href ="https://store.alliedmedia.org/products/fertile-ground"><img src= '/static/images/featured/fertile ground 11.png'></a>
 
 <b>Abolition is a movement to end policing and incarceration.</b> It is a long-term process to reorganize our society and create systemic change so that [prisons are obsolete.](https://www.feministes-radicales.org/wp-content/uploads/2010/11/Angela-Davis-Are_Prisons_Obsolete.pdf) It is the work to [shift funding, resources, power, and responsibility away from police](https://issuu.com/projectnia/docs/policeabolition101_zine_digital_singlepages) and into community-based safety alternatives. Abolition is not only about dismantling, it is also about creating. As [Ruth Wilson Gilmore](https://www.nytimes.com/2019/04/17/magazine/prison-abolition-ruth-wilson-gilmore.html) says, “Abolition is about presence, not absence. It’s about building life-affirming institutions.”
 
@@ -73,7 +73,7 @@ Since its founding as an institution rooted in [“slave patrols,”](https://ab
 
 The trans women of color, Sylvia Rivera and Masha P. Johnson, behind Street Transvestite Action Revolutionaries (STAR) are an example of creating safety when one cannot rely on the state or wider community for resources. In order to survive in a world that criminalized their very existence, Sylvia and Marsha did sex work. Marsha claimed to have been arrested [over 100 times.](https://www.nytimes.com/interactive/2018/obituaries/overlooked-marsha-p-johnson.html?mtrref=www.google.com&gwh=E899E9DC7344AEF6001DDDB2F958F1D0&gwt=regi&assetType=REGIWALL) They [used their earnings to found STAR House,](https://makinggayhistory.com/podcast/sylvia-rivera-part-2/) a building in NYC, in 1970 where they provided shelter and protection to queer and trans youth who would otherwise be unhoused. They built a network of care and resilience in the face of systemic exclusion, and a path to safety where there was none.
 
-<img src= '/static/images/featured/fertile ground social 4.png'>
+<a href="https://store.alliedmedia.org/products/fertile-ground"><img src= '/static/images/featured/fertile ground social 4.png'></a>
 
 Decades later, the Sylvia Rivera Law Project [spoke out against](https://srlp.org/action/hate-crimes/) the use of hate crime legislation to “protect” queer and trans people. They stated, “As we see trans people profiled by police, disproportionately arrested and detained, caught in systems of poverty and detention, and facing extreme violence in prisons, jails and detention centers, we believe that this system itself is a main perpetrator of violence against our communities.”
 
@@ -87,7 +87,8 @@ In spite of these realities, Asian Americans have often chosen [respectability p
 
 In 2014, NYPD Officer Peter Liang shot and killed Akai Gurley, a 28 year old Black man, who had been visiting his girlfriend and getting his hair braided. Liang’s attorney claimed the officer [did not provide medical aid after the shooting because he was “so upset.”](https://www.buzzfeednews.com/article/maryanngeorgantopoulos/police-officer-was-too-upset-after-shooting-to-help-akai-gur) [Conservative Chinese Americans rallied to support Liang](https://www.npr.org/sections/codeswitch/2016/04/23/475369524/awoken-by-n-y-cop-shooting-asian-american-activists-chart-way-forward) -- not the Gurley family and [activists](https://aaww.org/justice-akai-gurley-matters/) seeking accountability for murder. This alignment with the carceral state shows us the limits of organizing solely around our identity as Asian Americans instead of around and across shared values of justice.
 
-<img src= '/static/images/featured/fertile ground social 7.png'>
+<a href="http://gum.co/fertileground">
+<img src= '/static/images/featured/fertile ground social 7.png'></a>
 
 
 Our imagined “safety” cannot come at the expense of Black lives. As Asian Americans, abolition means turning toward one another and building a united vision for community safety that includes all of us. We must build networks of care and healing to make this vision real. 
@@ -113,4 +114,4 @@ We want our family members and our communities to be safe from violence. But we 
 
 <h2><a href="http://gum.co/fertileground">Grab your FREE digital download of Fertile Ground now!</a></h2>
 
-<a href="http://gum.co/fertileground"><img src= '/static/images/featured/fertile ground square.png' alt='poster product photo'>
+<a href="http://gum.co/fertileground"><img src= '/static/images/featured/fertile ground square.png' alt='poster product photo'></a>
