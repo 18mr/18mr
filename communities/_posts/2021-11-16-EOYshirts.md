@@ -7,7 +7,7 @@ featured-image: /static/images/featured/sweatshirt v 2.png
 author: "18 Million Rising Staff"
 blurb: "Two shirts inspired by the visionary leadership of our elders and ancestors."
 Tweet: “Two shirts inspired by the visionary leadership of our elders and ancestors.”
-facebook: “WTwo shirts inspired by the visionary leadership of our elders and ancestors.”
+facebook: “Two shirts inspired by the visionary leadership of our elders and ancestors.”
 permalink: /2021/11/2021-AL-shirts.html
 ---
 
@@ -31,6 +31,9 @@ This is a bold and unapologetic message for Asian America: Cages and cops don’
 
 
 <h1>My Elders Taught Me How To Pray</h1>
+
+<a href="https://www.bonfire.com/store/18-million-rising/"><img src= "/static/images/featured/shirt_sand_purple.png"></a>
+
 Amidst swirling incense lies an overturned police car. We’re sending up abolitionist prayers to transform a world of harm and punishment into one of healing and interdependence.
 Surrounding the incense and police car are scenes of transformation. From burning prisons comes abundance and life-giving nature: butterflies, birds, flowers. We’re calling on our elders and ancestors to guide our work in tearing down all systems of violence and oppression. 
 
