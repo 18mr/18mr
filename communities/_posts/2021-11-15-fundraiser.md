@@ -84,14 +84,19 @@ Many of our elders had to take risks to survive and radically change their condi
 
 <b> Your coin funds Asian America’s community power, resilience, and futures. Here’s a look at what you made possible this year. </b>
 
-  <center><<img src= "/static/images/featured/2021 general fundraiser 1.png" hspace="10" style="padding: 20px; float: left; width: 40%; height: 40%"></center><sub>
-
+  <center><img src= "/static/images/featured/2021 general fundraiser 1.png" hspace="10" style="padding: 20px; float: left; width: 40%; height: 40%"></center><sub>
 
 - You mobilized over $1,000 for community-led safety initiatives in Oakland Chinatown following a series of racialized attacks on Asian elders
+
 - 5,500 of you rose up for Lam Hong Le, a Vietnamese essential worker, artist and beloved community member facing deportation
+
 - You gathered with hundreds of organizers at 3 free digital organizing workshops offered by 18MR to build our collective organizing capacity 
-- After listening to our community about what real safety means in the face of systemic violence, 18MR formally “came out” as an abolitionist organization. 
+
+- After listening to our community about what real safety means in the face of systemic violence, 18MR formally “came out” as an abolitionist organization.
+
 - 50,000 of you staged a virtual walkout of Facebook and Instagram demanding transparency in the company’s privacy policies and Mark Zuckerberg’s resignation 
+
+<br>
 
 <html>
 <head>
