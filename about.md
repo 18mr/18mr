@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-<h1>About 18MR</h1>
-
 <img src= "/static/images/about.png" hspace="30px" style="float: right; width: 40%; height: 40%">
 
 <h3>18 MILLION RISING CONNECTS THE POWER OF ASIAN AMERICA TO DIGITAL FIRST ORGANIZING.</h3>
@@ -17,6 +15,35 @@ permalink: /about/
 <p>As part of the East, Southeast and South Asian diasporas, our communities have come from many waves of immigration to the U.S. Many of us are physically isolated because our communities have been ripped apart through incarceration, gentrification, deportation, climate change, state violence, and consumerism. Creating community on the Internet has helped young Asian Americans close these gaps. For us the Internet is a place where we come together to create culture, collaborate, and build power. <br></p>
 
 <p>Since 2012, our online and offline advocacy and cultural campaigns have highlighted the struggles of Asian American communities while celebrating our resilience. Using digital-first organizing, 18MR responds to issues of the current political moment. We mobilize our people to speak up against injustice and take action. From policy change to shifting narratives, 18MR helps define the culture of Asian America today.</p>
+
+<h1 id="staff">Our Values</h1>
+
+<h2>Interdependence</h2>
+
+Interdependence
+We believe that our work must center those most on the margins of our communities. We recognize that our struggles as colonized peoples are connected but not the same. We center and uphold community leadership. 
+
+<h2>Liberation</h2>
+
+We assert our agency as marginalized peoples by resisting colonialism and imperialism. We challenge our own complicity in anti-Black racism and settler colonialism. We reject white supremacy culture in our communities, systems, and selves by struggling principally and grounding in our radical ancestral histories. 
+
+<h2>Digital Community</h2>
+
+As a digital-first organization, we see the internet as a place. We confront technological systems that deny the complexity of personal, political, and environmental issues. We critically engage with technology to ensure that it works for us and we do not work for technology. 
+
+<h2>Learning</h2>
+
+We learn by doing and approach this work with deep listening, self-reflection, and humility. We believe that taking action must work in tandem with political education. As both teachers and students, we know mistakes are an unavoidable part of learning. 
+
+<h2>Thriving</h2>
+
+We reclaim our power by embracing rest, care, and healing so that we can ensure future generations can thrive. In remembrance of our ancestors, we celebrate all of our contributions and victories. We believe pleasure, joy, and laughter builds a sustainable peoples movement. 
+
+<h2>Creativity</h2>
+
+From breathtaking visual art to building new systems, we value creativity in many forms. We know that visionary imagination is instrumental to world building. We use art, media, and technology as tools for creating the futures we deserve.
+
+<br>
 
 <h1 id="staff">Our Staff</h1>
 

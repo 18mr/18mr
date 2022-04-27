@@ -256,7 +256,9 @@ ul#footer {
 			color: $the-pink;
 			font-size: 18px;
 			text-decoration: none;
-			font-family: 'league-gothic';
+			font-family: roc-grotesk-wide, sans-serif;
+			font-weight: 600;
+			font-style: normal;
 			text-transform: uppercase;
 			display: block;
 			height: auto;
@@ -473,7 +475,7 @@ hr {
 		font-size: 1.8em;
 		@include radius(5px);
 		color: white;
-		font-family: "league-gothic";
+		font-family: roc-grotesk-wide, sans-serif;
 		text-transform: uppercase;
 		border: 0;
 		width: 150px;
@@ -539,7 +541,7 @@ hr {
 		margin-bottom: 15px;
 		
 		.campaign-title {
-			font-family: 'league-gothic';
+			font-family: 'roc-grotesk-wide, sans-serif';
 			font-size: 1.7em;
 			text-transform: uppercase;
 		}
