@@ -42,7 +42,7 @@ We reclaim our power by embracing rest, care, and healing so that we can ensure 
 <h2>Creativity</h2>
 
 From breathtaking visual art to building new systems, we value creativity in many forms. We know that visionary imagination is instrumental to world building. We use art, media, and technology as tools for creating the futures we deserve.
-
+<br>
 <br>
 
 <h1 id="staff">Our Staff</h1>
