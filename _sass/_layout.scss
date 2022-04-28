@@ -1,6 +1,13 @@
 /**
  * Clickable pretty logos and buttons
  */
+
+@font-face {
+  font-family: roc-grotesk-wide, sans-serif;
+  font-weight: 600;
+  font-style: normal;
+  src: url("https://use.typekit.net/tzo5hck.css"); }
+ 
 #logo {
 	float: left;
 	padding: 15px 0;
