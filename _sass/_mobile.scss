@@ -196,7 +196,7 @@
 				display: block;
 				padding: 5px;
 				margin: auto;
-				text-align: center;
+				text-align: left;
 				
 				.socialmedia {
 					margin: auto;
@@ -221,7 +221,7 @@
 		
 			.post-list {
 				padding-right: 0;
-				text-align: center;
+				text-align: left;
 					
 				li {
 					border-bottom: 1px lighten($the-gray, 55%) solid;
