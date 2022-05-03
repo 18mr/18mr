@@ -20,7 +20,6 @@ permalink: /about/
 
 <h2>Interdependence</h2>
 
-Interdependence
 We believe that our work must center those most on the margins of our communities. We recognize that our struggles as colonized peoples are connected but not the same. We center and uphold community leadership. 
 
 <h2>Liberation</h2>
