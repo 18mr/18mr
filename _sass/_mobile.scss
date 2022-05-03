@@ -22,7 +22,7 @@
 	/* Footer */
 	
 	.footer-col-wrapper {
-		margin-left: 0;
+		margin: 5%;
 		
 		.footer-col {
 			margin-bottom: 0;
@@ -217,7 +217,7 @@
 		float: none;
 	
 		.wrapper {
-			max-width: 98%;
+			max-width: 80%;
 		
 			.post-list {
 				padding-right: 0;
@@ -234,12 +234,13 @@
 						
 					.post-link {
 						font-size: 1.5em;
+						line-height: 1.2em;
 					}
 						
 					.post-meta {
 						font-size: 1.3em;
 						line-height: 1.5em;
-						text-align: center;
+						text-align: left;
 						margin-bottom: 0;
 					}
 					
