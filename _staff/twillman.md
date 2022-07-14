@@ -1,6 +1,6 @@
 ---
 name: "Turner Willman"
-photo: "/static/images/staff/turner_1.jpg"
+photo: "/static/images/staff/Turner_1.jpg"
 title: "Community Engagement Manager"
 weight: 4
 ---
