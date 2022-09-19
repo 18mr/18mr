@@ -1,6 +1,6 @@
 ---
 name: "Bianca Nozaki-Nasser"
-photo: "/static/images/staff/BNN_2022.jpeg"
+photo: "/static/images/staff/2022bianca.png"
 title: "Creative & Strategy Director"
 weight: 2
 ---
