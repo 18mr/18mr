@@ -6,7 +6,7 @@ from os.path import isfile, join
 
 for dir in ['communities', 'culture', 'ideas', 'identities', 'releases']:
 
-    files = ['{}/_posts/{}'.format(dir, f) for f in listdir('{}/_posts'.format(dir)) if isfile(join('{}/_posts'.format(dir), f))]
+    files = ['../../{}/_posts/{}'.format(dir, f) for f in listdir('../../{}/_posts'.format(dir)) if isfile(join('../../{}/_posts'.format(dir), f))]
 
     for file in files:
 
