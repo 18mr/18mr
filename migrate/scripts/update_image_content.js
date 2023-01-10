@@ -7,7 +7,7 @@ const fetch = require('node-fetch');
 require('dotenv').config({ path: __dirname + '/config/vars.env' })
 
 const headers = {
-    'Authorization': `Basic ${Buffer.from('admin' + ":" + 'password').toString('base64')}`
+    'Authorization': `Basic ${Buffer.from(`${process.env.WP_AUTH_USERNAME}` + ":" + `${process.env.WP_AUTH_PASSWORD}`).toString('base64')}`
 }
 
 Promise.all([fetch(`${process.env.WP_SERVER}/wp-json/wp/v2/posts?per_page=100&page=1`, {
@@ -23,7 +23,7 @@ Promise.all([fetch(`${process.env.WP_SERVER}/wp-json/wp/v2/posts?per_page=100&pa
             fetch(`${process.env.WP_SERVER}/wp-json/wp/v2/posts/${post.id}`, {
                 method: 'POST',
                 body: JSON.stringify(contentJSON),
-                headers: { 'Content-Type': 'application/json', 'Authorization': `Basic ${Buffer.from('admin' + ":" + 'password').toString('base64')}` }
+                headers: { 'Content-Type': 'application/json', 'Authorization': `Basic ${Buffer.from(`${process.env.WP_AUTH_USERNAME}` + ":" + `${process.env.WP_AUTH_PASSWORD}`).toString('base64')}` }
             }).then(res => res.json())
               .then(post => console.log(post.id));
         })
@@ -40,7 +40,7 @@ Promise.all([fetch(`${process.env.WP_SERVER}/wp-json/wp/v2/posts?per_page=100&pa
             fetch(`${process.env.WP_SERVER}/wp-json/wp/v2/posts/${post.id}`, {
                 method: 'POST',
                 body: JSON.stringify(contentJSON),
-                headers: { 'Content-Type': 'application/json', 'Authorization': `Basic ${Buffer.from('admin' + ":" + 'password').toString('base64')}` }
+                headers: { 'Content-Type': 'application/json', 'Authorization': `Basic ${Buffer.from(`${process.env.WP_AUTH_USERNAME}` + ":" + `${process.env.WP_AUTH_PASSWORD}`).toString('base64')}` }
             }).then(res => res.json())
               .then(post => console.log(post.id));
         })

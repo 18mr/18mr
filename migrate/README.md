@@ -22,12 +22,14 @@ In the main directory, run `jekyll build`
 
 ## 4. Upload to WP All Import
 1. In the Wordpress installation, make sure that the [WP All Import plugin](https://wordpress.org/plugins/wp-all-import/) is installed
-2. Upload the export file in `_site/export.xml`
-3. Follow the [steps to fill in the import template](https://www.fivefilters.org/2021/how-to-migrate-a-jekyll-blog-to-wordpress/), which are stpes 5 through 7.
+2. Install the [Basic Auth plugin](https://github.com/WP-API/Basic-Auth) in Wordpress
+3. Set up permalinks in Wordpress settings
+4. Upload the export file in `_site/export.xml`
+5. Follow the [steps to fill in the import template](https://www.fivefilters.org/2021/how-to-migrate-a-jekyll-blog-to-wordpress/), which are stpes 5 through 7.
 
 
 ## Remove unwanted characters in post content
-1. Edit the `WP_SERVER` entry in `migrate/scripts/config/vars.env` with your desired server address
+1. Edit the `WP_SERVER` entry in `migrate/scripts/config/vars.env` with your desired server address, username, and password
 2. In the main directory, run `npm --prefix migrate/scripts install `
 3. Then run: `node migrate/scripts/update_image_content.js`. This will fix all the links and image links in
    the Wordpress site.
