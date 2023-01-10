@@ -5,3 +5,4 @@ altconfig
 Gemfile.lock
 .DS_Store
 .bundle
+node_modules
