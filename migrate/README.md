@@ -27,6 +27,7 @@ In the main directory, run `jekyll build`
 
 
 ## Remove unwanted characters in post content
-1. In the main directory, run `npm --prefix migrate/scripts install `
-2. Then run: `node migrate/scripts/update_image_content.js`. This will fix all the links and image links in
+1. Edit the `WP_SERVER` entry in `migrate/scripts/config/vars.env` with your desired server address
+2. In the main directory, run `npm --prefix migrate/scripts install `
+3. Then run: `node migrate/scripts/update_image_content.js`. This will fix all the links and image links in
    the Wordpress site.

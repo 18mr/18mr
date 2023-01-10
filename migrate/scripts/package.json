@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/evmiguel/18mr#readme",
   "dependencies": {
+    "dotenv": "^16.0.3",
     "node-fetch": "2.0"
   }
 }
