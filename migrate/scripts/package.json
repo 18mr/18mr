@@ -1,0 +1,23 @@
+{
+  "name": "18mr",
+  "version": "1.0.0",
+  "description": "Package to run scripts",
+  "main": "update_image_content.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evmiguel/18mr.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evmiguel/18mr/issues"
+  },
+  "homepage": "https://github.com/evmiguel/18mr#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "node-fetch": "2.0"
+  }
+}
